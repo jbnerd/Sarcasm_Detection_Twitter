@@ -9,4 +9,4 @@ Sarcasm detection is a particularly difficult task even for humans. This reposit
   
   - Include a readme.txt in the working folder and specify the python dependencies associated with your piece of code for everyone's reference. Don't simply ``` pip freeze ```.
   
-  - :)
+  - :smile:
