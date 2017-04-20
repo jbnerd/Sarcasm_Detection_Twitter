@@ -40,17 +40,17 @@ def main():
 
 
 def preprocess(tweet,stopwords):
-    tweet = tweet.replace("#sarcasm","")
-    tweet = tweet.replace("#sarcastic","")
-    tweet = re.sub(r"(?<=^|(?<=[^a-zA-Z0-9-_\.]))@([A-Za-z]+[A-Za-z0-9]+)", "", tweet)
-    tweet = re.sub(r'(https?|ftp)://[^\s/$.?#].[^\s]*', '', tweet, flags=re.MULTILINE)
+    tweet = tweet.replace("#sarcasm","")                                                    #Removes the sarcasm hashtag
+    tweet = tweet.replace("#sarcastic","")                                                  
+    tweet = re.sub(r"(?<=^|(?<=[^a-zA-Z0-9-_\.]))@([A-Za-z]+[A-Za-z0-9]+)", "", tweet)      #Removes mentions
+    tweet = re.sub(r'(https?|ftp)://[^\s/$.?#].[^\s]*', '', tweet, flags=re.MULTILINE)      #Removes URL
     table = str.maketrans("?/:^&*()!@$%:;',<.>-+*\{\}[]\"#"," "*30)
-    tweet= tweet.translate(table)
+    tweet= tweet.translate(table)                                                           #Removes unneccesory symbols
     stemmer = SnowballStemmer("english",ignore_stopwords=True)
     tokens = tweet.split()
-    tokens = [ w for w in tokens if w not in stopwords]
-    tokens = [item for item in tokens if item.isalpha()]
-    tokens = [ stemmer.stem(w) for w in tokens ]
+    tokens = [ w for w in tokens if w not in stopwords]                                     #Removes stopword
+    tokens = [item for item in tokens if item.isalpha()]                                    #Removes nonAlphabatic words 
+    tokens = [ stemmer.stem(w) for w in tokens ]                                            #Stem the words
     return " ".join(tokens)
 
 
