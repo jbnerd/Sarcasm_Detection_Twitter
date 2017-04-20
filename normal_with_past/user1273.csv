@@ -1,0 +1,57 @@
+username,time,tweet
+N3X15,Tue Mar 01 05:29:48 IST 2016,"Also, the problem with HexChat ended up being a problem with Python 2.7.11.  Use Python 2.7.10."
+N3X15,Tue Mar 01 05:09:51 IST 2016,"Scratched someone's car while avoiding a shopping cart today, was in panic mode until driver showed up and didn't want to persue a claim."
+N3X15,Mon Feb 29 13:23:48 IST 2016,"Chocolatey is really good, more people need to use it.  tl;dr: it's apt-get for Windows.  Carry it around on a thumbdrive for rescues."
+N3X15,Mon Feb 29 13:20:56 IST 2016,"@wickedplayer494 Windows 7 x64.  OSX always crashes.  It got so bad on my Mac Mini, it just stopped updating and I chucked it in a closet."
+N3X15,Mon Feb 29 13:19:04 IST 2016,"Hexchat is crashing.  Go to compile it.  Needs Python.  Python needs VS2008.  VS2008 needs windows SDK.
+
+Fuck it, Virtualbox Ubuntu time."
+N3X15,Mon Feb 29 03:05:35 IST 2016,"Probably a good reason Unity chucks ""(Clone)"" into the name when Instantiating, but it still drives me nuts."
+N3X15,Sun Feb 28 11:53:20 IST 2016,Disadvantage of quiet apartment complex:  Epileptic preparing dinner sounds like a marching band in a library.
+N3X15,Sun Feb 28 11:46:38 IST 2016,"Fixed prefab cloning dereferencing things, minigun finally fucking works again.  Now just need to get meshes and anims working."
+N3X15,Sun Feb 28 10:45:51 IST 2016,"So the new prefab serializer works, but cloned scripts reference the prototype's components...?!"
+N3X15,Sun Feb 28 03:46:25 IST 2016,"There's a crow somewhere outside.
+
+It is barking."
+N3X15,Sun Feb 28 02:04:17 IST 2016,Reinstalling VS2015.  My hard drive has entered a weird state where the R/W clicks sync and sound like buzzing.
+N3X15,Sat Feb 27 08:43:12 IST 2016,"Car is fixed, folks are gone, time to get some work done."
+N3X15,Fri Feb 26 08:17:17 IST 2016,Went ahead and cancelled the tow.  They're not going to show up before the shop closes.  Try again tomorrow.
+N3X15,Fri Feb 26 07:25:19 IST 2016,This.  Factorio is an excellent game and has a vibrant modding community.  Give it a shot. https://t.co/xXUeG4IHsG
+N3X15,Fri Feb 26 06:05:59 IST 2016,New estimate: another hour
+N3X15,Fri Feb 26 05:02:53 IST 2016,"Tow's an hour late because they got the wrong truck.  On the other hand, brake place is going to rebuild both calipers, fixing sensor issue."
+N3X15,Fri Feb 26 03:11:11 IST 2016,"Tow set up.  Sounds like it'll be covered, and the brake repair place sounds like it's going to be 1/3rd the price of a local repair shop."
+N3X15,Fri Feb 26 02:47:29 IST 2016,"And yes, car is in safe position and in park, so it's not going to roll around.  Working on tow."
+N3X15,Fri Feb 26 02:41:47 IST 2016,"Welp.  My brakes just literally fucking exploded. Put car into park, brake hit floor, walk outside, fluids dripping from calipers.
+
+Fuck me."
+N3X15,Thu Feb 25 05:02:59 IST 2016,"Okay, Windows 7 is humming right along and I got Unity and CS6 whacked back in, so now I can get back to work. Nick probably thinks I'm dead"
+N3X15,Wed Feb 24 01:49:58 IST 2016,"And no, didn't lose any work on FTD since my Projects dir is on an external drive. Don't have drivers for it yet, either."
+N3X15,Wed Feb 24 01:47:31 IST 2016,"Let Windows 7 chug on updates overnight, almost done.  Have WindowsUpdate.log open baretail, just in case it needs yelled at."
+N3X15,Wed Feb 24 01:41:32 IST 2016,"RT @tenderlove: We used to have blocker bugs, but then we switched our issue tracker to be async."
+N3X15,Tue Feb 23 13:32:20 IST 2016,I'm probably teaching a whole generation of kids who followed me from KSP a whole new world of curses.  My legacy to the Earth.
+N3X15,Tue Feb 23 13:29:55 IST 2016,Reinstalling again because fucking Windows Update tripped over its dick and broke EVERYTHING
+N3X15,Tue Feb 23 13:25:36 IST 2016,"Another article you can answer with ""no"".  Politicians suck. https://t.co/8HJGhPr5IJ"
+N3X15,Tue Feb 23 09:28:37 IST 2016,https://t.co/YZ3kJyCeWi
+N3X15,Tue Feb 23 09:14:40 IST 2016,Looking forward to hours of fun installing updates since Microsoft are pricks and killed AutoPatcher.
+N3X15,Tue Feb 23 09:11:15 IST 2016,"Fuck it, reformatting."
+N3X15,Tue Feb 23 09:10:30 IST 2016,Fun fact:  Windows Update is impossible to start within Safe Mode.  Manually start the service and get told that it can't. 😐
+N3X15,Tue Feb 23 09:06:00 IST 2016,"Fun fact:  msconfig is completely broken and useless on Windows 10, as none of the options are applied."
+N3X15,Tue Feb 23 08:03:48 IST 2016,"WHY THE FUCK ARE LIVE TILES ON DURING SAFEMODE?  TAT DEFEATS THE PURPOSE OF FUCKING SAFEMODE,  MICROSTUPID."
+N3X15,Tue Feb 23 08:00:12 IST 2016,20 fucking minutes to reboot into safemode.
+N3X15,Tue Feb 23 07:59:07 IST 2016,"Advanced options finally came up, booting up pc now"
+N3X15,Tue Feb 23 07:58:10 IST 2016,"I should mention that the flare is from my desk lamp, not camera flash."
+N3X15,Tue Feb 23 07:56:36 IST 2016,Black screen now https://t.co/wDm1LdFCA2
+N3X15,Tue Feb 23 07:51:40 IST 2016,And I just realized Microsoft deactivated my Windows 7 key because it's been more than 3 months.  Still on Please Wait.
+N3X15,Tue Feb 23 07:48:32 IST 2016,"Yes, I'll wait. https://t.co/OzxPwQVonG"
+N3X15,Tue Feb 23 07:46:48 IST 2016,"Fastest OS in the west, folks. https://t.co/HMFxl5RH3I"
+N3X15,Tue Feb 23 07:44:19 IST 2016,Still grey blank screen
+N3X15,Tue Feb 23 07:42:10 IST 2016,Now grey blank screen
+N3X15,Tue Feb 23 07:41:46 IST 2016,And it went back to desktop
+N3X15,Tue Feb 23 07:40:56 IST 2016,And the grey rebooting screen is up. I pre typed this.
+N3X15,Tue Feb 23 07:39:30 IST 2016,I have pressed reboot to safemode.  Let's start the stopwatch.
+N3X15,Tue Feb 23 07:37:19 IST 2016,"As I sit here, unable to do anything, an entire 3 WHOLE ICONS have loaded on my desktop.  In 15 minutes."
+N3X15,Tue Feb 23 07:34:05 IST 2016,"And of course, I can't boot into safemode because that's a restart command arg and  F8 on boot is too OldSchool, man."
+N3X15,Tue Feb 23 07:31:51 IST 2016,"Two minutes after restart, HDD light is solid and input fails to register.  Not even CTRL SHIFT ESC registers."
+N3X15,Tue Feb 23 07:16:16 IST 2016,"I'd go Ubuntu, but I do a lot of Qt-based dev and KDE is completely fucking broken these days"
+N3X15,Tue Feb 23 07:14:14 IST 2016,It's Windows ME with hipster ter glasses
+N3X15,Tue Feb 23 07:12:05 IST 2016,Now Windows 10 is thrashing my hdd so hard the computer is unusable.  Win10: biggest mistake of my life

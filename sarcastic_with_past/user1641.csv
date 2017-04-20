@@ -1,0 +1,53 @@
+username,time,tweet
+jordanshane,Mon Feb 29 23:56:56 IST 2016,"Oh wow, Visual Studio 2013 crashed.  That’s a new one.  #sarcasm"
+jordanshane,Mon Feb 29 00:35:15 IST 2016,Great article to learn #redux  I think this will take much less code to write than standard #flux  https://t.co/rZrLyE7vOJ
+jordanshane,Sat Feb 27 01:36:45 IST 2016,ASCII one line art https://t.co/VxehP9UuPP
+jordanshane,Thu Feb 25 08:16:30 IST 2016,This handwriting recognition tool kind of cool  https://t.co/YH22wb3a16
+jordanshane,Wed Feb 24 08:45:29 IST 2016,when you first start working with #react you better get used to seeing data-reactid EVERYWHERE in your html
+jordanshane,Tue Feb 23 20:42:16 IST 2016,Crazy mind map of the #docker ecosystem  https://t.co/JqeT2vBM0u
+jordanshane,Mon Feb 22 07:18:31 IST 2016,"Can’t figure out why this #docker container won’t stay running on #tutum It starts, then stops with a “Container Update (die)” command"
+jordanshane,Wed Feb 17 18:50:57 IST 2016,"Really, really impressed with LoopBack.  Its for generating node.js APIs really, really fast  https://t.co/ilpvKZGk3X"
+jordanshane,Wed Feb 17 09:57:29 IST 2016,"@_neckbeard i’ll start with a simple, let it run my node site.  :)"
+jordanshane,Wed Feb 17 09:54:36 IST 2016,@_neckbeard Lotus?  as in 123?
+jordanshane,Wed Feb 17 07:56:24 IST 2016,"learning so much tonight about the Docker world:  Docker Hub, Tutum, Docker Cloud, Docker Nodes, Docker Stacks."
+jordanshane,Sat Feb 13 05:08:10 IST 2016,Damn you Nuget:  Could not load file or assembly 'Newtonsoft.Json' or one of its dependencies.
+jordanshane,Sat Feb 13 01:17:28 IST 2016,"I complain about Visual Studio crashing, so MS tweets me a link to avoid crashes.  The link 404s.  U made me point. https://t.co/BjH463pKL9"
+jordanshane,Fri Feb 12 20:15:57 IST 2016,"My 1TB SSD was out of space, so I deleted an old 125GB VM.  I’m sure it had snapshots but it ended up freeing 500GB of space?  odd."
+jordanshane,Fri Feb 12 18:25:45 IST 2016,"seriously, how can Visual Studio 2013 crash as much as it does."
+jordanshane,Thu Feb 11 21:25:11 IST 2016,"@gerrymiller Hey, have you used AWS Code Deploy yet?  I’m wondering if i can tie that to AWS Docker Container Service"
+jordanshane,Fri Feb 05 15:59:18 IST 2016,RT @codinghorror: Hell isn't other people's code. Hell is your own code from 3 years ago.
+jordanshane,Fri Feb 05 15:49:47 IST 2016,@onesev that was back in the slow EF4 days.  EF6 isn't bad.
+jordanshane,Fri Feb 05 01:53:55 IST 2016,"#EntityFramework DbFunctions.  I didn’t realize these existed.  Very handy for doing date compares, etc  https://t.co/4qZ2JP8eJF"
+jordanshane,Wed Feb 03 07:04:13 IST 2016,Loving all of the Alamo* packages.  Able to delete lots of custom code.  #AlamoFire https://t.co/kQ64onLH31
+jordanshane,Wed Feb 03 07:03:14 IST 2016,"Working on #Swift tonight, but instead of frustration, lots of breakthroughs.  Finally productive!"
+jordanshane,Tue Feb 02 19:41:36 IST 2016,Docker micro containers.  This is how I’ve always envisioned how apps would run on servers.  https://t.co/37VIdyXobX
+jordanshane,Thu Jan 28 00:01:24 IST 2016,"Not usually a country fan, but this dude Chris Stapleton rocks it.  Actually, he’s probably more blues/country than anything."
+jordanshane,Wed Jan 27 23:00:51 IST 2016,"well this is turning out to be an awesome week.  #sarcasm  The joy of large, complex software projects and mis-aligned expectations"
+jordanshane,Wed Jan 27 18:52:26 IST 2016,"Apple Watch chargers are $40+?  Oh come on Apple!  Can’t find any third party, fire hazard, knock offs either."
+jordanshane,Wed Jan 27 18:45:24 IST 2016,"Looks like https://t.co/Hdr2qWI9Gb homepage got a redesign.  No line separators, all whitespace."
+jordanshane,Mon Jan 25 07:22:31 IST 2016,Great site called “Solved by Flexbox”  It contains the “holy grail layout” that most websites use  https://t.co/bWTQGVofrP
+jordanshane,Mon Jan 25 07:21:18 IST 2016,"CSS layouts.  Started with tables, then floats, now flex box and in the future, CSS Grid.  https://t.co/mASafT7L00"
+jordanshane,Fri Jan 22 08:05:05 IST 2016,Flexbox!  Yeah baby!  Solving all my alignment issues.  F U #float   #CSS #Flexbox
+jordanshane,Fri Jan 22 00:52:31 IST 2016,"@jamesbender Pisses me off too since i’m from VA.  News flash, not all technical talent only lives in Silicon Valley."
+jordanshane,Thu Jan 21 20:40:41 IST 2016,protip:  stack overflow errors will kill your IIS app pool and you need to fix it and restart app pool
+jordanshane,Thu Jan 21 06:04:29 IST 2016,This is the coolest website you will visit this week https://t.co/kRs36267Uq
+jordanshane,Tue Jan 19 21:32:36 IST 2016,Congrats to TaskTorch! https://t.co/UDUy04frj6
+jordanshane,Tue Jan 19 21:31:01 IST 2016,"I think my Windows VM that I created in 7 and I’ve upgraded to 8, 8.1 and now 10 is dying.  Need to create a fresh new one"
+jordanshane,Tue Jan 19 07:30:17 IST 2016,RT @DavidWells: Hehe RT @julienXX: Developer job ads https://t.co/kzYju8o0el
+jordanshane,Tue Jan 19 07:21:53 IST 2016,"#Ios Current Development status.  GRRR!  
+
+Attempt to present <> on <ViewController: > whose view is not in the window hierarchy!"
+jordanshane,Sun Jan 17 22:18:24 IST 2016,@jasich remember when node and go was still new?  ha!  new round of technologies coming through with #elixir #om and #elm
+jordanshane,Sun Jan 17 22:07:15 IST 2016,"@jasich yes, read that one.  Have you been using it?"
+jordanshane,Sun Jan 17 09:13:23 IST 2016,"and apparently #elm is faster than #react.  Everything simplifies to model, update and view. Feels like React+Flex   https://t.co/aTKyM6fxwH"
+jordanshane,Sun Jan 17 09:04:52 IST 2016,"null is not a part of the language and apparently the compiler is so out of this world, its next to impossible to have runtime errors?  #elm"
+jordanshane,Sun Jan 17 09:04:12 IST 2016,Trying to understand #elm tonight.  So its a functional language dedicated to web development.
+jordanshane,Sun Jan 17 06:11:56 IST 2016,Hey @pluralsight got any courses on #elm coming out?
+jordanshane,Sat Jan 16 00:23:22 IST 2016,@mattsonlyattack The train never stops or even slows down.  Both good and bad.  And then there is #golang I think that is a startup darling
+jordanshane,Sat Jan 16 00:20:44 IST 2016,@mattsonlyattack are you working with Elixir and Elm?  I keep hearing more and more about Elixir.  I don’t grok it quite yet
+jordanshane,Sat Jan 16 00:18:56 IST 2016,"@mattsonlyattack First https://t.co/qFpnOS4AzW mirrored Ruby, now NodeJs.  What’s next?"
+jordanshane,Sat Jan 16 00:15:54 IST 2016,"Its amusing that to use MSFTs new https://t.co/NaP0CgtMoq #MVC6, you have to install a competing framework (#NodeJs)."
+jordanshane,Thu Jan 14 20:31:52 IST 2016,This is a great Cache Manager for .NET.  Can use Redis or whatever you want to plug in https://t.co/z6IJRBhVjz
+jordanshane,Wed Jan 13 21:34:40 IST 2016,"Been using #lodash for years not, but still feel like i only use about 15% of it.  So powerful.  Learn new tricks with it every day."
+jordanshane,Wed Jan 13 19:53:43 IST 2016,"@kraihn I have the newest MBP at it maxes at 16GB.  If you are running VMs, just not enough."
+jordanshane,Wed Jan 13 07:35:51 IST 2016,Playing with some #Docker tonight.  This is a really great tutorial if you are a noob like me  https://t.co/j7r5seoMlX
