@@ -22,7 +22,6 @@ def main():
         writer=csv.writer(outputFile)
         for row in reader:
             row[2]=preprocess(row[2],stop)
-            print(row)
             writer.writerow(row)
         inputFile.close()
         outputFile.close()
@@ -35,7 +34,6 @@ def main():
         writer=csv.writer(outputFile)
         for row in reader:
             row[2]=preprocess(row[2],stop)
-            print(row)
             writer.writerow(row)
         inputFile.close()
         outputFile.close()
@@ -45,7 +43,7 @@ def preprocess(tweet,stopwords):
     tweet = tweet.replace("#sarcasm","")
     tweet = tweet.replace("#sarcastic","")
     tweet = re.sub(r"(?<=^|(?<=[^a-zA-Z0-9-_\.]))@([A-Za-z]+[A-Za-z0-9]+)", "", tweet)
-    tweet = re.sub(r'^https?:\/\/.*[\r\n]*', '', tweet, flags=re.MULTILINE)
+    tweet = re.sub(r'(https?|ftp)://[^\s/$.?#].[^\s]*', '', tweet, flags=re.MULTILINE)
     table = str.maketrans("?/:^&*()!@$%:;',<.>-+*\{\}[]\"#"," "*30)
     tweet= tweet.translate(table)
     stemmer = SnowballStemmer("english",ignore_stopwords=True)
