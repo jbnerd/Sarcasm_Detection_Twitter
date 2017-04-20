@@ -7,10 +7,10 @@ import os
 
 def main():
     pwd = os.getcwd();
-    norm_in = pwd + "/norm_input"
-    norm_out = pwd + "/norm_out"
-    sarc_in = pwd + "/sarc_input"
-    sarc_out = pwd + "/sarc_out"
+    norm_in = pwd + "/normal_with_past"
+    norm_out = pwd + "/normal_with_past_PP"
+    sarc_in = pwd + "/sarcastic_with_past"
+    sarc_out = pwd + "/sarcastic_with_past_PP"
     stop = set(stopwords.words('english'))
 
     for f in os.listdir(norm_in):
