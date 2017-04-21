@@ -1,6 +1,6 @@
 import re
-from nltk.corpus import stopwords
-from nltk.stem.snowball import SnowballStemmer
+from nltk import word_tokenize
+from nltk.stem import WordNetLemmatizer
 import csv
 import os
 
@@ -14,14 +14,12 @@ def main():
     stop = set(stopwords.words('english'))
 
     for f in os.listdir(norm_in):
-        inputDest = os.path.join(norm_in,f)
-        outputDest = os.path.join(norm_out,f)
-        inputFile = open(inputDest,"r")
-        outputFile = open(outputDest,"w")
+        inputFile = open(os.path.join(norm_in,f),"r")
+        outputFile = open(os.path.join(norm_out,f),"w")
         reader=csv.reader(inputFile)
         writer=csv.writer(outputFile)
         for row in reader:
-            row[2]=preprocess(row[2],stop)
+            row[2]=preprocess(row[2])
             writer.writerow(row)
         inputFile.close()
         outputFile.close()
@@ -33,26 +31,52 @@ def main():
         reader=csv.reader(inputFile)
         writer=csv.writer(outputFile)
         for row in reader:
-            row[2]=preprocess(row[2],stop)
+            row[2]=preprocess(row[2])
             writer.writerow(row)
         inputFile.close()
         outputFile.close()
 
+    # inputFile = open("test_data.csv", "r")
+    # outputFile = open("processed.csv", "w")
+    # reader = csv.reader(inputFile)
+    # writer = csv.writer(outputFile)
+    # for row in reader:
+    #     row[2] = preprocess(row[2])
+    #     # print row[2]
+    #     writer.writerow(row) 
 
-def preprocess(tweet,stopwords):
+def remove_punctuations(text_string):
+        #defining a list of special characters to be used for text cleaning
+        special_characters = [",",".","'",";","\n", "?", "!", ":", ")", "(", "@", "*", "{", "}", "#",":", "_", "+", "`", "~", "$", "%", "^", "&", ""] 
+        cleaned_string = str(text_string)
+        # removing stop words
+        for ch in special_characters:
+            cleaned_string = cleaned_string.replace(ch, "")
+            cleaned_string = cleaned_string.lower()
+        return cleaned_string
+
+def remove_stop_words(document):
+        pwd = os.getcwd()
+        words_file = pwd + "/stop_words.txt"
+        stop_word_list = []
+        stop_word_list = [word for line in open(words_file, 'r') for word in line.split(",")]
+        cleaned_doc = []
+        for term in document.split(" "):
+            # print term
+            term = remove_punctuations(term)
+            if term not in stop_word_list:
+                cleaned_doc.append(term)
+        return cleaned_doc   
+
+def preprocess(tweet):
     tweet = tweet.replace("#sarcasm","")                                                    #Removes the sarcasm hashtag
-    tweet = tweet.replace("#sarcastic","")                                                  
-    tweet = re.sub(r"(?<=^|(?<=[^a-zA-Z0-9-_\.]))@([A-Za-z]+[A-Za-z0-9]+)", "", tweet)      #Removes mentions
-    tweet = re.sub(r'(https?|ftp)://[^\s/$.?#].[^\s]*', '', tweet, flags=re.MULTILINE)      #Removes URL
-    table = str.maketrans("?/:^&*()!@$%:;',<.>-+*\{\}[]\"#"," "*30)
-    tweet= tweet.translate(table)                                                           #Removes unneccesory symbols
-    stemmer = SnowballStemmer("english",ignore_stopwords=True)
-    tokens = tweet.split()
-    tokens = [ w for w in tokens if w not in stopwords]                                     #Removes stopword
-    tokens = [item for item in tokens if item.isalpha()]                                    #Removes nonAlphabatic words 
-    tokens = [ stemmer.stem(w) for w in tokens ]                                            #Stem the words
-    return " ".join(tokens)
-
+    tweet = tweet.replace("#sarcastic","")
+    tweet = tweet.replace("#not","")
+    tweet = re.sub(r"(?<=^|(?<=[^a-zA-Z0-9-_\.]))@([A-Za-z]+[A-Za-z0-9]+)", "", tweet) 
+    tweet = re.sub(r'(https?|ftp)://[^\s/$.?#].[^\s]*', '', tweet, flags=re.MULTILINE)      #Removes URL                                                   
+    tweet = remove_stop_words(tweet)                                   
+    tweet = " ".join(tweet)
+    return tweet
 
 
 if __name__=="__main__":
