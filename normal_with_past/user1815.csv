@@ -1,0 +1,51 @@
+username,time,tweet
+djspiewak,Tue Mar 01 05:29:39 IST 2016,@michaelg It seems a lot more likely that this is a crowd-sourced training bias (unconscious or conscious) from Netflix's users.
+djspiewak,Tue Mar 01 05:29:10 IST 2016,@michaelg What I think is interesting is the article ends by strongly suggesting this is a consequence of unconscious bias among the devs.
+djspiewak,Tue Mar 01 02:51:47 IST 2016,@milessabin @runarorama You might be able to trick it into happening outside the REPL by wrapping each statement in an object.
+djspiewak,Tue Mar 01 02:13:03 IST 2016,@milessabin @runarorama Preliminary guesswork is that it's related to the bug where an object and a type have same name.
+djspiewak,Tue Mar 01 02:12:45 IST 2016,@milessabin @runarorama I wonder if this bug can be lifted in some way to actually achieve linear types…
+djspiewak,Mon Feb 29 22:32:07 IST 2016,RT @viktorklang: Things were going well until I hit SI-2712
+djspiewak,Sat Feb 27 02:05:19 IST 2016,@GoblinGame @lagergren I suppose this is true. The goal then would be to be optimize for a higher number of vectors whenever possible.
+djspiewak,Sat Feb 27 01:29:44 IST 2016,@GoblinGame @lagergren I like to think that almost anyone I interact with knows more than I do along AT LEAST one vector.
+djspiewak,Sat Feb 27 01:29:12 IST 2016,@GoblinGame @lagergren This is one of the beautiful things about intelligence: there is no one axis along which it can be quantified.
+djspiewak,Sat Feb 27 01:28:00 IST 2016,"@mattmight Over the holidays, I went from south florida to central wisconsin to denver to san francisco."
+djspiewak,Sat Feb 27 00:58:49 IST 2016,@aaronmblevin @stuartsierra I can certainly come up with plenty of cases where implicit conversions are awful. This is not one of them.
+djspiewak,Sat Feb 27 00:58:32 IST 2016,@aaronmblevin @stuartsierra This isn't a problem with implicits. It's a problem with integer overflow and dumb numeric types.
+djspiewak,Fri Feb 26 03:56:29 IST 2016,@aurosan @rit It's creative if nothing else. I'd give them an interview just on that basis alone.
+djspiewak,Fri Feb 26 03:52:21 IST 2016,@rit I don't think ClassTag is serializable.
+djspiewak,Fri Feb 26 03:41:45 IST 2016,@haspemulator @runarorama I'd be very surprised if any public transit solution approaches Transit for its use case.
+djspiewak,Fri Feb 26 01:55:29 IST 2016,@tlockney @deech Exactly. It also demonstrates respect for someone’s domain of interest when you take the time to learn the syntax/semantics
+djspiewak,Fri Feb 26 01:44:50 IST 2016,"And yet, despite zfs.ko being a perfectly reasonable piece of software, it probably IS in violation of the kernel's license. Which is stupid"
+djspiewak,Fri Feb 26 01:44:09 IST 2016,"The kerfuffle over zfs.ko is exactly why I dislike GPL. This is clearly not what the ""derivative works"" clause was intended to achieve."
+djspiewak,Fri Feb 26 01:36:57 IST 2016,"@deech You may NOT be a peer in their subject matter, but if they treat you as one, you'll learn unbelievable amounts."
+djspiewak,Fri Feb 26 01:36:39 IST 2016,"@deech Mostly, all you need to do is be able to present yourself at a level where the expert feels they can talk to you as a peer."
+djspiewak,Fri Feb 26 01:36:04 IST 2016,@deech I try to familiarize myself with every significant area of the field to the level where I can at least hold a conversation.
+djspiewak,Fri Feb 26 01:17:14 IST 2016,"@kubukoz Indeed! Teaching is a fantastic way to ensure that you really know something, not to mention seeing it from different angles."
+djspiewak,Fri Feb 26 00:54:18 IST 2016,"The dual of the previous is that almost everyone has AN exceptional area of expertise. When you meet someone, find that area and learn."
+djspiewak,Fri Feb 26 00:53:45 IST 2016,Surround yourself with people who know more than you do. You learn nothing from being the smartest in the room other than how to have an ego
+djspiewak,Fri Feb 26 00:47:48 IST 2016,"@viktorklang @runarorama LOL That's basically how the world works, right?"
+djspiewak,Fri Feb 26 00:39:33 IST 2016,"@runarorama At this point, I'm using an unholy mixture of Google Maps, Apple Maps and Transit."
+djspiewak,Fri Feb 26 00:39:16 IST 2016,"@runarorama I've been gradually migrating to apple maps. The data and search are worse, but the app itself is far more usable."
+djspiewak,Thu Feb 25 23:58:49 IST 2016,"@d6 Wow, that's not disorienting or anything… :-)"
+djspiewak,Thu Feb 25 03:55:34 IST 2016,"RT @sadserver: taking one big mistake and turning it into a lot of little mistakes is apparently called ""microservices"""
+djspiewak,Thu Feb 25 03:27:47 IST 2016,RT @maxlynch: If you're interviewing dev candidates and *you* have to prepare and research a bunch of CS stuff you forgot? They're probably…
+djspiewak,Wed Feb 24 23:25:02 IST 2016,"ScalaDays is a great conference, and I'm looking forward to attending, but their speaker policies have been backwards since year 1. :-("
+djspiewak,Wed Feb 24 23:24:24 IST 2016,"In news that may or may not be related, my talk on type level programming techniques has been accepted."
+djspiewak,Wed Feb 24 23:23:46 IST 2016,"I'm very disappointed that ScalaDays still doesn't cover speaker travel expenses. Effectively, speakers pay THEM for the privilege."
+djspiewak,Wed Feb 24 05:58:11 IST 2016,"@lowellheddings Exactly, but they still have Windows and a lot of captive eyeballs. They want to pivot that audience into more growth fields"
+djspiewak,Wed Feb 24 05:56:16 IST 2016,"@lowellheddings Where by ""serious trouble"" I mean ""less relevant than they've been"". They aren't dying; they just won't grow."
+djspiewak,Wed Feb 24 05:55:53 IST 2016,"@lowellheddings Without being able to establish windows phone, MS is in very serious trouble in the consumer space over the next 10 years."
+djspiewak,Wed Feb 24 05:55:25 IST 2016,"@lowellheddings Right, and eventually that's enough to influence consumer decisions. But they're already bailing out that boat."
+djspiewak,Wed Feb 24 05:54:52 IST 2016,"@lowellheddings Parallel efforts stemming from the same need, I suspect."
+djspiewak,Wed Feb 24 05:54:16 IST 2016,@lowellheddings They know that fiddling around with ads for a few weeks isn't going to make anyone switch to Mac/Linux.
+djspiewak,Wed Feb 24 05:53:50 IST 2016,@lowellheddings Almost certainly a trial balloon. Microsoft needs to cultivate alt revenue streams from their existing dominance.
+djspiewak,Wed Feb 24 02:14:35 IST 2016,@extempore2 Ah that's fair. Also I don't think dtrace works on the Linux kernel.
+djspiewak,Wed Feb 24 02:13:25 IST 2016,@extempore2 FUSE seems like overkill. Also I had no idea that FUSE still worked (reliably) on Mac.
+djspiewak,Wed Feb 24 02:12:40 IST 2016,"@extempore2 The next step would be to take anything not in that dtrace output and chmod -x. After that, removal."
+djspiewak,Wed Feb 24 02:12:15 IST 2016,"@extempore2 One random idea would be to run a background dtrace for a few weeks, watching /usr/bin to see what actually gets hit."
+djspiewak,Tue Feb 23 23:57:29 IST 2016,"RT @jessitron: ""Every improvement in productivity will eventually get canceled by people who use it to write more complicated things."" @Gil…"
+djspiewak,Tue Feb 23 00:29:17 IST 2016,"@ErrataRob @micahflee Ah. :-) A dicewords password takes me about 200-300ms to enter, so I don't see it as a factor. YMMV"
+djspiewak,Tue Feb 23 00:27:50 IST 2016,"@micahflee @ErrataRob @matthew_d_green If someone can unlock the disk encryption, my user account protections are irrelevant."
+djspiewak,Tue Feb 23 00:27:27 IST 2016,@micahflee @ErrataRob @matthew_d_green Why would you? A sufficiently strong password for both should suffice.
+djspiewak,Tue Feb 23 00:24:40 IST 2016,"@micahflee @matthew_d_green It seems the only real threat there though is physical access, overwrite BIOS, and trick user into booting."
+djspiewak,Tue Feb 23 00:24:16 IST 2016,"@micahflee @matthew_d_green Ah, I wasn't aware that the BIOS was vulnerable in that way. Interesting."
