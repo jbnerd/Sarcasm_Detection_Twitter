@@ -1,0 +1,51 @@
+username,time,tweet
+mjg59,Tue Mar 01 05:29:54 IST 2016,@blitzclone Doesn't really start properly until tomorrow - I was only there to be on a panel
+mjg59,Tue Mar 01 05:25:07 IST 2016,"@blitzclone Dunno, I left"
+mjg59,Tue Mar 01 04:16:25 IST 2016,RT @neverett: How many RSA conference attendees would let me read their badges with a device labeled IRONY DETECTOR
+mjg59,Tue Mar 01 02:23:03 IST 2016,@cstross @miguelesquirol @SwiftOnSecurity Seriously Barbie is the most competent IoT device so far
+mjg59,Tue Mar 01 02:22:20 IST 2016,@cstross @miguelesquirol @SwiftOnSecurity I bought a replacement and it speaks AT commands. One of which is AT+TELNETD.
+mjg59,Tue Mar 01 02:01:38 IST 2016,Not even the Dark Web? https://t.co/PGX5tI06KR
+mjg59,Tue Mar 01 01:56:57 IST 2016,"Shorn of context, this makes me sound alarmingly chemtraily https://t.co/Zq46JcoT25"
+mjg59,Tue Mar 01 00:51:45 IST 2016,Anyone got a Threatbutt lanyard I can replace this with? https://t.co/bOqms6gSPS
+mjg59,Mon Feb 29 22:12:53 IST 2016,"BART euphemisms: there's a ""medical emergency"", but personnel are working to ""correct the issue"""
+mjg59,Mon Feb 29 20:39:23 IST 2016,@richardfontana @fsf Ooh
+mjg59,Mon Feb 29 11:41:39 IST 2016,@lopta For a laptop
+mjg59,Mon Feb 29 11:17:27 IST 2016,https://t.co/dtBFyjpYRs YOU COULD HAVE MADE THIS GOOD BUT INSTEAD YOU MADE IT BAD WHY DID YOU MAKE IT BAD
+mjg59,Mon Feb 29 11:12:59 IST 2016,@richardfontana Do Red Hat enforce on eCos infringements?
+mjg59,Mon Feb 29 11:08:48 IST 2016,The downside of not being part of the Apple ecosystem is how much harder it is to buy replacement PSUs
+mjg59,Mon Feb 29 10:54:16 IST 2016,Some implausible number of my Amazon orders are because Amazon have no idea whether a package has been lost or not
+mjg59,Mon Feb 29 07:49:20 IST 2016,Good god the RSA registration form is a disaster
+mjg59,Mon Feb 29 07:26:41 IST 2016,An undocumented AT+TELNETD command what could go wrong
+mjg59,Mon Feb 29 07:12:27 IST 2016,(eCos turns up in the strangest places)
+mjg59,Mon Feb 29 07:12:05 IST 2016,I think I've found a device that's violating the GPL and it doesn't even run Linux?
+mjg59,Mon Feb 29 06:58:31 IST 2016,@fraggletastic Oh! Those! Terrifying.
+mjg59,Mon Feb 29 06:53:42 IST 2016,@fraggletastic Nope! What is it?
+mjg59,Mon Feb 29 06:45:02 IST 2016,Reading about 802.11 to RS232 bridges that just pass packets through to the serial port and what is this world
+mjg59,Sun Feb 28 14:39:38 IST 2016,@kelliotttt charge your phone
+mjg59,Sun Feb 28 14:37:25 IST 2016,RT @JohnMilkspill: ok just verified the authenticity of my yoghurt maker with a smartphone app
+mjg59,Sun Feb 28 04:56:32 IST 2016,@kyriasis whereas changing CDDL to be GPL compatible would cover almost everything
+mjg59,Sun Feb 28 04:55:42 IST 2016,"@kyriasis they could license their ZFS code, but several others would have to do the same for ZoL to be usable"
+mjg59,Sun Feb 28 04:12:00 IST 2016,"@cryothresh Unless they explicitly say that you can only use 1.0, the CDDL says you can use any version. There are only two files that do."
+mjg59,Sun Feb 28 03:59:03 IST 2016,"@cryothresh No. Far too many copyright holders to gain agreement, and an explicitly pinned license version that can't be auto-upgraded."
+mjg59,Sun Feb 28 03:58:23 IST 2016,"And the rejection packet is a unicast IP packet. So even when it rejects you, it gives you everything you need to control the lights."
+mjg59,Sun Feb 28 03:57:48 IST 2016,"Plus, the only thing that's actually gated on that is the discovery packets. Once you know the IP, you can control it."
+mjg59,Sun Feb 28 03:57:08 IST 2016,"If you provide a MAC, it must be one that's been associated with the device or you get rejected. If you don't, it just listens to you."
+mjg59,Sun Feb 28 03:56:08 IST 2016,"Of note: when using this rather than the official app, at no point do you have to authenticate to the bridge"
+mjg59,Sun Feb 28 03:34:21 IST 2016,Trivial Python module for controlling the awful lightbulbs I bought: https://t.co/gc462NTUnO
+mjg59,Sun Feb 28 02:57:49 IST 2016,"@FrozenFire Yes, you can explicitly state a version"
+mjg59,Sun Feb 28 02:49:39 IST 2016,@kittenpies3 There's a reasonable quantity of ZFS Linux code that isn't owned by Oracle
+mjg59,Sun Feb 28 02:49:05 IST 2016,"There's about 200 lines of ZFS that are explicitly CDDL 1.0, but the rest would then be usable anywhere"
+mjg59,Sun Feb 28 02:47:46 IST 2016,"CDLL allows the license steward to release new versions. Oracle could release a new, GPL-compatible version of CDDL if they wanted."
+mjg59,Sun Feb 28 01:27:12 IST 2016,@broonie huh! Good point
+mjg59,Sat Feb 27 06:50:42 IST 2016,"The first of these Bluetooth bulbs appears to use aes on top of the Bluetooth encryption, which is interesting"
+mjg59,Sat Feb 27 04:49:11 IST 2016,Hey @NeatoRobotics how do I report denial of service attacks against the Botvac Connected?
+mjg59,Fri Feb 26 22:29:19 IST 2016,Story checks out (https://t.co/IoVo10CC88 ) https://t.co/P3mCoX108C
+mjg59,Fri Feb 26 22:27:11 IST 2016,"Lord Lawson sitting in a dark room, reading Ireland's Facebook, trying to figure out who the other people in pictures are"
+mjg59,Fri Feb 26 22:25:59 IST 2016,"Look, England, the armed uprising was a hint. We don't want to be with you."
+mjg59,Fri Feb 26 22:25:23 IST 2016,… https://t.co/7GmUvQc50u
+mjg59,Fri Feb 26 21:42:49 IST 2016,Woo yup looks like I can crash the API endpoint on the vacuum cleaner
+mjg59,Fri Feb 26 13:18:49 IST 2016,Phew false alarm I left it unplugged for a while and it started working again
+mjg59,Fri Feb 26 13:01:00 IST 2016,"Aliens, I'll buy. Conspiracy theories, sure. But PCR never works first time."
+mjg59,Fri Feb 26 13:00:12 IST 2016,Wait the X Files plot has the future of the human race hinging on somebody's ability to have a PCR run work first time?
+mjg59,Fri Feb 26 12:48:10 IST 2016,@gosamv (but thanks!)
+mjg59,Fri Feb 26 12:31:31 IST 2016,"@gosamv nope, that's the older one that's not used on ultrabooks"
