@@ -26,3 +26,20 @@ sample="Hello world"
 
 l=word_length_distribution(sample)
 print(l)
+
+def JS(d1,d2):
+    mean = [(float(x)+ float(y))/2 for x,y in zip(d1, d2)]
+    div1 = KL(d1,mean)
+    div2 = KL(d2,mean)
+    return float(0.5*div1) + float(0.5*div2)
+
+def KL(t1,t2):
+    sum=0
+    for i in range(len(t1)):
+        x = float(t1[i])/float(t2[i])
+        if x >0:
+          value = math.log(x)*t1[i]
+        else:
+          value =0  
+        sum =sum+value
+    return sum
