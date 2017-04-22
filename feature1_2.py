@@ -1,4 +1,4 @@
-from textblob import TextBlob 
+# from textblob import TextBlob 
 
 from PreProc import preprocess
 import csv
@@ -15,7 +15,7 @@ def getSentiStrength(w):
 	if w in sentidict:
 		return sentidict[w]
 	else:
-		for key,value in sentidict.iteritems():
+		for key,value in sentidict.items():
 			if key.startswith(w):
 				return value
 		#print w
@@ -39,7 +39,7 @@ def get_feature_1_2(filename):
 		neg_neu=0
 		f=[None]*10
 		for row in file_reader:
-			print "*******************************"
+			print ("*******************************")
 			# print num
 			num=num+1
 			# print row['tweet']
@@ -52,12 +52,12 @@ def get_feature_1_2(filename):
 			for w in words:
 				# print w + str(getSentiStrength(w))
 				senti_score=senti_score+getSentiStrength(w)
-			print senti_score
+			# print senti_score
 			
 			if num==1:
 				prev_score=senti_score
 			else:
-				print num, prev_score, senti_score
+				# print num, prev_score, senti_score
 				if prev_score<0 and senti_score<0:
 					neg_neg=neg_neg+1
 					if num ==2:
@@ -95,15 +95,15 @@ def get_feature_1_2(filename):
 					if num ==2:
 						i=6							
 				prev_score=senti_score
-		print pos_pos
-		print pos_neg
-		print pos_neu
-		print neu_neg
-		print neu_pos
-		print neu_neu
-		print neg_pos
-		print neg_neg
-		print neg_neu
+		# print pos_pos
+		# print pos_neg
+		# print pos_neu
+		# print neu_neg
+		# print neu_pos
+		# print neu_neu
+		# print neg_pos
+		# print neg_neg
+		# print neg_neu
 		total=pos_neu+pos_neg+pos_pos+neg_neu+neg_neg+neg_pos+neu_neu+neu_pos+neu_neg
 		f[1]= float(pos_pos)/total
 		f[2]= float(pos_neg)/total
@@ -115,6 +115,7 @@ def get_feature_1_2(filename):
 		f[8]= float(neg_neg)/total
 		f[9]= float(neg_neu)/total
 		f[0]= f[i]
-		print f
+		print (f)
 		return f
 
+get_feature_1_2("/home/ameesha/Documents/data mining/feature1.2/user0.csv")
