@@ -72,12 +72,12 @@ def get_emoji_Features(raw_tweet):
 				posnum += raw_tweet.count(emo)
 				possum += raw_tweet.count(emo)*emoji[emo]
 	features.extend((possum,negsum))
-	print features
+	#print features
 
 	temp = re.findall(r"[\w']+", raw_tweet)
-	features.append(len(filter(lambda x:x.isupper(),temp)))
-	print features
+	features.append(len(list(filter(lambda x:x.isupper(),temp))))
+	#print features
 	return features
 
 # get_feature_1_2("/home/ameesha/Documents/data mining/feature1.2/user0.csv")
-get_emoji_Features("Well i just cant stop singing/watching/humming #IkVaariAa !! ❤️🎤🎧 Its on loop..WOW What about you? 😜😁")
+print (get_emoji_Features("Well i just cant stop singing/watching/humming #IkVaariAa !! ❤️🎤🎧 Its on loop..WOW What about you? 😜😁"))
