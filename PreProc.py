@@ -6,7 +6,7 @@ import os
 
 
 def main():
-    pwd = os.getcwd();
+    pwd = os.getcwd()
     norm_in = pwd + "/normal_with_past"
     norm_out = pwd + "/normal_with_past_PP"
     sarc_in = pwd + "/sarcastic_with_past"
