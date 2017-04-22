@@ -1,6 +1,45 @@
 # -*- coding: utf-8 -*-
 
 import re
+import nltk
+
+
+def get_pos_features(words):
+	tags=[]
+	pos_tags ={
+	'JJ':0,
+	'JJR':0,
+	'JJS':0,
+	'MD':0,
+	'NN':0,
+	'NNP':0,
+	'PR':0,
+	'RB':0,
+	'RBR':0,
+	'RBS':0,
+	'UH':0,
+	'V':0,
+	'W':0,
+	}
+	for item in words:
+		try:
+			tokenized = nltk.word_tokenize(item.lower())
+			tagged = nltk.pos_tag(tokenized)
+			tags.append(tagged[0][1])
+		except Exception as e:
+			print(str(e))
+	# print (tags)
+	probs=[]
+	for i in pos_tags.keys():
+			pos_tags[i]=tags.count(i)
+	pos_tags['V']=tags.count('VB')+tags.count('VBD')+tags.count('VBG')+tags.count('VBN')+tags.count('VBP')+tags.count('VBZ')
+	pos_tags['W']=tags.count('WDT')+tags.count('WP')+tags.count('WP$')+tags.count('WRB')
+	pos_tags['PR']=tags.count('PRP')+tags.count('PRP$')
+	w_count=float(len(words))
+	probs=[x/w_count for x in pos_tags.values()]
+	# print (probs)
+	return probs
+
 
 def get_emoji_Features(raw_tweet):
 	features=[]
@@ -72,12 +111,16 @@ def get_emoji_Features(raw_tweet):
 				posnum += raw_tweet.count(emo)
 				possum += raw_tweet.count(emo)*emoji[emo]
 	features.extend((possum,negsum))
-	#print features
+	# print features
 
 	temp = re.findall(r"[\w']+", raw_tweet)
+	pos_features = get_pos_features(list(filter(lambda x:x.isupper(),temp)))
 	features.append(len(list(filter(lambda x:x.isupper(),temp))))
-	#print features
+	# print features
+	features.extend(pos_features)
+	print (features)
 	return features
 
 # get_feature_1_2("/home/ameesha/Documents/data mining/feature1.2/user0.csv")
-print (get_emoji_Features("Well i just cant stop singing/watching/humming #IkVaariAa !! ❤️🎤🎧 Its on loop..WOW What about you? 😜😁"))
+# get_emoji_Features("Well i just CANT stop singing/watching/HUMMING #IkVaariAa !! ❤️🎤🎧 Its on loop..WOW What about you? 😜😁")
+# get_emoji_Features("ARE YOU KIDDING ME?")
