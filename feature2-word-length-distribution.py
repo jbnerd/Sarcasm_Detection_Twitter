@@ -23,7 +23,7 @@ def feature_syllables(tweet):
         
     return [i,j,k,j/i,k/i]
 
-print(feature_syllables('How you doing'))
+#print(feature_syllables('How you doing'))
 
 def mode(lda):
     maxkey=1
