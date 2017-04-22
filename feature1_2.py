@@ -116,4 +116,5 @@ def get_feature_1_2(filename):
 		f[9]= float(neg_neu)/total
 		f[0]= f[i]
 		print f
+		return f
 
