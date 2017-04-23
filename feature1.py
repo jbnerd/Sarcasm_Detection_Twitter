@@ -134,3 +134,4 @@ def contrastingFeatures(words):
 
 # contrastingFeatures(tweet)
 # bigram_score(tweet)
+# function to read tweets from preprocessed data and pass to contrastingFeatures()
