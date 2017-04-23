@@ -51,7 +51,7 @@ def KL(t1,t2):
 def writeFile(folder,csvfile):
    
     f2 = csv.writer(csvfile,delimiter=",")
-    for f in os.listdir(folder):
+    for f in sorted(os.listdir(folder)):
         inputFile = open(os.path.join(folder,f),"r")
         reader= list(csv.reader(inputFile))
         tweet = reader[1][2]
