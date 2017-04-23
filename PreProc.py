@@ -1,7 +1,7 @@
 import re
 import csv
 import os
-
+from ExtraPreProc import remove_punctuations
 
 def main():
     pwd = os.getcwd();
@@ -33,36 +33,13 @@ def main():
         inputFile.close()
         outputFile.close()
 
-def remove_punctuations(text_string):
-        #defining a list of special characters to be used for text cleaning
-        special_characters = [",",".","'",";","\n", "?", "!", ":", ")", "(", "@", "*", "{", "}", "#",":", "_", "+", "`", "~", "$", "%", "^", "&", "","<",">","=","`","\"","'"] 
-        cleaned_string = str(text_string)
-        # removing special character
-        for ch in special_characters:
-            cleaned_string = cleaned_string.replace(ch, "")
-            cleaned_string = cleaned_string.lower()
-        return cleaned_string
-
-def remove_stop_words(document):
-        pwd = os.getcwd()
-        words_file = pwd + "/stop_words.txt"
-        stop_word_list = []
-        stop_word_list = [word for line in open(words_file, 'r') for word in line.split(",")]
-        cleaned_doc = []
-        for term in document.split(" "):
-            term = remove_punctuations(term)
-            if term not in stop_word_list:
-                cleaned_doc.append(term)
-        return cleaned_doc   
-
 def preprocess(tweet):
     tweet = tweet.replace("#sarcasm","")                                                    #Removes the sarcasm hashtag
     tweet = tweet.replace("#sarcastic","")
     tweet = tweet.replace("#not","")
     tweet = re.sub(r"(?<=^|(?<=[^a-zA-Z0-9-_\.]))@([A-Za-z]+[A-Za-z0-9]+)", "", tweet)      #Removes mentions
-    tweet = re.sub(r'(https?|ftp)://[^\s/$.?#].[^\s]*', '', tweet, flags=re.MULTILINE)      #Removes URL        
-    tweet = remove_stop_words(tweet)                                   
-    tweet = " ".join(tweet)
+    tweet = re.sub(r'(https?|ftp)://[^\s/$.?#].[^\s]*', '', tweet, flags=re.MULTILINE)      #Removes URL
+    tweet = remove_punctuations(tweet)
     return tweet
 
 
