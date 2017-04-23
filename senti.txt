@@ -1,0 +1,2574 @@
+absolutely	1
+complete	1	9\tJune\t2010
+completely	1	9\tJune\t2010
+could	-1	9\tJune\t2010
+definitely	1
+did	-1	9\tJune\t2010\t[past\tis\tless\tstrong]
+especially	1	9\tJune\t2010
+extremely	2
+fuckin	2
+fucking	2
+hugely	2
+incredibly	2
+just	-1
+may	-1	9\tJune\t2010
+might	-1	9\tJune\t2010
+ought	-1	9\tJune\t2010
+overwhelmingly	2
+really	1	9\tJune\t2010
+should	-1	9\tJune\t2010
+slightly	-1	9\tJune\t2010
+so	0	Was\t1\tbut\tsometimes\tused\tas\tneutral\tor\tmild\tterm
+some	-1
+sometimes	-1	9\tJune\t2010
+sum	-1
+total	1	9\tJune\t2010
+totally	1	9\tJune\t2010
+very	1
+would	-1	9\tJune\t2010
+abandon	-2	liwc\tuness\tspecified\totherwise
+abate	-2	General\tInquirer\tFeb\t2010
+abdicate	-2	General\tInquirer\tFeb\t2010
+abhor	-4	General\tInquirer\tFeb\t2010
+abject	-2	General\tInquirer\tFeb\t2010
+abnormal	-2	General\tInquirer\tFeb\t2010
+abolish	-2	General\tInquirer\tFeb\t2010
+abomina	-3	General\tInquirer\tFeb\t2010
+abrasive	-2	General\tInquirer\tFeb\t2010
+abrupt	-2	General\tInquirer\tFeb\t2010
+abscond	-2	General\tInquirer\tFeb\t2010
+absence	-2	General\tInquirer\tFeb\t2010
+absent	-2	General\tInquirer\tFeb\t2010
+absurd	-2	Feb-11
+abuse	-4	
+abusi	-4	removed\taccept	1	accepta	2	accepted	2	accepting	2	accepts	2	
+abyss	-2	General\tInquirer\tFeb\t2010
+accident	-2	General\tInquirer\tFeb\t2010
+accomplish	2	Hannes\tGI\tadd
+accost	-2	General\tInquirer\tFeb\t2010
+accursed	-2	General\tInquirer\tFeb\t2010
+accus	-2	General\tInquirer\tFeb\t2010
+accusation	-2	General\tInquirer\tFeb\t2010
+ache	-2	
+achen	1	kev
+acher	1	kev
+acheson	1	kev
+acheta	1	kev
+aching	-2	removed\tactive	2	
+acrimon	-2	General\tInquirer\tFeb\t2010
+addict	-2	General\tInquirer\tFeb\t2010
+admir	3	
+admiral	1	kev
+admoni	-2	General\tInquirer\tFeb\t2010
+ador	4	advantag	2	
+adorn	1	kev
+adroit	2	Hannes\tGI\tadd
+adulterat	-2	General\tInquirer\tFeb\t2010
+adulteror	-3	kev\tadd
+adultery	-3	General\tInquirer\tFeb\t2010
+adventur	1	
+advers	-2	
+affab	3	Hannes\tGI\tadd
+affectation	-2	General\tInquirer\tFeb\t2010
+affection	3	
+afflict	-3	General\tInquirer\tFeb\t2010
+afraid	-4	
+against	-2	General\tInquirer\tFeb\t2010
+aggravat	-3	
+aggress	-3	
+aggrieve	-2	General\tInquirer\tFeb\t2010
+aghast	-2	General\tInquirer\tFeb\t2010
+agitat	-2	
+agonis	-4	kev
+agoniz	-4	
+agony	-4	removed\tagree	2	
+agreeab	1	removed\tagreed	2	agreeing	2	agreement	2	agrees	2	
+ail	-2	General\tInquirer\tFeb\t2010
+ailing	-3	kev\tadd
+ailment	-2	General\tInquirer\tFeb\t2010
+ails	-2	General\tInquirer\tFeb\t2010
+aimless	-2	General\tInquirer\tFeb\t2010
+alarm	-3	
+alas	-2	General\tInquirer\tFeb\t2010
+alibi	-2	General\tInquirer\tFeb\t2010
+alien	-2	General\tInquirer\tFeb\t2010
+alienat	-2	General\tInquirer\tFeb\t2010
+allegation	-2	General\tInquirer\tFeb\t2010
+allege	-2	General\tInquirer\tFeb\t2010
+alol	2	actually\tlaughing\tout\tloud
+alone	-1	removed\talright	2	
+aloof	-2	General\tInquirer\tFeb\t2010
+altercation	-2	General\tInquirer\tFeb\t2010
+amaz	3	
+amazon	1	kev
+ambiguit	-2	General\tInquirer\tFeb\t2010
+ambiguous	-2	General\tInquirer\tFeb\t2010
+ambivalent	-2	General\tInquirer\tFeb\t2010
+ambush	-2	General\tInquirer\tFeb\t2010
+amiab	3	Hannes\tGI\tadd
+amiss	-2	General\tInquirer\tFeb\t2010
+amor	2	
+amoral	-3	kev
+amort	1	kev
+amour	2	Hannes\tGI\tadd
+amputate	-2	General\tInquirer\tFeb\t2010
+amus	2	
+anarchist	-2	General\tInquirer\tFeb\t2010
+anarchy	-2	General\tInquirer\tFeb\t2010
+angelic	2	Hannes\tGI\tadd
+anger	-4	
+angr	-4	
+angraecum	1	kev
+angrecum	1	kev
+anguish	-4	
+animosity	-2	General\tInquirer\tFeb\t2010
+annihilate	-3	General\tInquirer\tFeb\t2010
+annihilation	-4	General\tInquirer\tFeb\t2010
+annoy	-3	
+anomalous	-2	General\tInquirer\tFeb\t2010
+anomaly	-2	General\tInquirer\tFeb\t2010
+antagoni	-2	
+anti-social	-2	General\tInquirer\tFeb\t2010
+antipathy	-2	General\tInquirer\tFeb\t2010
+antiquated	-2	General\tInquirer\tFeb\t2010
+antitrust	-2	General\tInquirer\tFeb\t2010
+anxi	-3	
+aok	2	
+apath	-2	
+appall	-4	
+applaud	2	Hannes\tGI\tadd
+applause	2	Hannes\tGI\tadd
+appreciat	2	
+apprehens	-3	
+apprehens	-3	General\tInquirer\tFeb\t2010
+arbitrary	-2	General\tInquirer\tFeb\t2010
+ardent	3	Hannes\tGI\tadd
+arduous	-2	General\tInquirer\tFeb\t2010
+argh	-2	
+argu	-2	
+arrogan	-3	
+arsehole	-3	
+artificial	-1	General\tInquirer\tFeb\t2010
+asham	-4	
+ashamed	-2	General\tInquirer\tFeb\t2010
+asinine	-2	Feb-11
+assail	-3	General\tInquirer\tFeb\t2010
+assassin	-3	General\tInquirer\tFeb\t2010
+assault	-3	
+asshole	-3	remvoed\tassur	2	
+asswipe	-3	Feb-11
+astray	-2	General\tInquirer\tFeb\t2010
+asunder	-2	General\tInquirer\tFeb\t2010
+atrocious	-4	General\tInquirer\tFeb\t2010
+atrophy	-2	General\tInquirer\tFeb\t2010
+attachment	1	
+attack	-3	
+attract	2	
+auster	-2	General\tInquirer\tFeb\t2010\tkev\tmod
+autocrat	-2	General\tInquirer\tFeb\t2010
+autocratic	-3	General\tInquirer\tFeb\t2010
+avaric	-3	General\tInquirer\tFeb\t2010
+avenge	-2	General\tInquirer\tFeb\t2010
+aversi	-3	remvoed\tavoid	-1	
+avert	-2	General\tInquirer\tFeb\t2010
+avoid	-2	General\tInquirer\tFeb\t2010
+award	1	
+awesome	3	kev\tadd\tstar
+awful	-4	
+awkward	-2	
+babble	-2	General\tInquirer\tFeb\t2010
+babies	2	27\tJuly\t2009\t(assumes\tpositive\tcontext\t-e.g.\they\tbaby)
+baby	2	27\tJuly\t2009\t(assumes\tpositive\tcontext\t-e.g.\they\tbaby)
+backwardness	-2	General\tInquirer\tFeb\t2010
+bad	-2	
+badly	-2	General\tInquirer\tFeb\t2010
+badmouth	-3	kev
+badness	-3	kev
+baffle	-2	General\tInquirer\tFeb\t2010
+bail	-2	General\tInquirer\tFeb\t2010
+bait	-2	General\tInquirer\tFeb\t2010
+balderdash	-2	Feb-11
+balk	-2	General\tInquirer\tFeb\t2010
+baloney	-2	Feb-11
+banal	-2	General\tInquirer\tFeb\t2010
+bandit	-2	General\tInquirer\tFeb\t2010
+bane	-2	General\tInquirer\tFeb\t2010
+banish	-2	General\tInquirer\tFeb\t2010
+bankrupt	-3	General\tInquirer\tFeb\t2010
+barbari	-3	General\tInquirer\tFeb\t2010
+barf	-2	Feb-11
+barren	-2	General\tInquirer\tFeb\t2010
+barrier	-2	General\tInquirer\tFeb\t2010
+bashful	-3	
+bastard	-3	removed\tbattl	-2	
+battle	-2	General\tInquirer\tFeb\t2010
+beastly	-2	General\tInquirer\tFeb\t2010
+beaten	-1	
+beatings	-3	kev
+beaut	3	
+beg	-2	General\tInquirer\tFeb\t2010
+beggar	-2	General\tInquirer\tFeb\t2010
+behead	-5	General\tInquirer\tFeb\t2010
+belated	-2	General\tInquirer\tFeb\t2010
+belie	-2	General\tInquirer\tFeb\t2010
+belittl	-3	General\tInquirer\tFeb\t2010\tkev\tmod
+belligerent	-3	General\tInquirer\tFeb\t2010
+beloved	3	kev\tadd\tstar\tremoved\tbenefic	2	benefit	2	benefits	2	
+benefitt	2	
+benevolen	2	
+benign	2	
+bereave	-4	General\tInquirer\tFeb\t2010
+bereft	-2	General\tInquirer\tFeb\t2010
+berk	-2	Feb-11
+berserk	-2	General\tInquirer\tFeb\t2010
+beseech	-2	General\tInquirer\tFeb\t2010
+beset	-2	General\tInquirer\tFeb\t2010
+besiege	-2	General\tInquirer\tFeb\t2010
+best	2	removed	better	2
+betray	-3	General\tInquirer\tFeb\t2010
+betroth	3	Hannes\tGI\tadd
+betrothal	3	Hannes\tGI\tadd
+beware	-2	General\tInquirer\tFeb\t2010
+bewilder	-3	General\tInquirer\tFeb\t2010
+bff	4	best\tfriends\tforever
+bg	2	big\tgrin
+bigot	-2	Feb-11
+bilge	-2	Feb-11
+birdbrain	-2	Feb-11
+bitch	-2	auto\tcheck\t4\taug\t2009
+bitter	-2	
+bittern	1	kev
+bitterns	1	kev
+bittersweet	1	kev
+bizarre	-2	General\tInquirer\tFeb\t2010
+blackmail	-3	General\tInquirer\tFeb\t2010
+blah	-2	General\tInquirer\tFeb\t2010
+blam	-2	
+blameless	2	kev
+bland	-2	General\tInquirer\tFeb\t2010
+blatant	-2	General\tInquirer\tFeb\t2010
+blather	-2	Feb-11
+bleak	-2	General\tInquirer\tFeb\t2010
+blemish	-2	General\tInquirer\tFeb\t2010
+bless	2	removed\tbold	2	
+blind	-2	General\tInquirer\tFeb\t2010
+bliss	5	Hannes\tGI\tadd
+blissful	5	Hannes\tGI\tadd
+block	-2	General\tInquirer\tFeb\t2010
+blockhead	-2	Feb-11
+bloodshed	-2	General\tInquirer\tFeb\t2010
+bloodthirsty	-2	General\tInquirer\tFeb\t2010
+bloody	-2	General\tInquirer\tFeb\t2010
+blunder	-2	General\tInquirer\tFeb\t2010
+blunt	-2	General\tInquirer\tFeb\t2010
+blur	-2	General\tInquirer\tFeb\t2010
+blurt	-2	General\tInquirer\tFeb\t2010
+boast	-2	General\tInquirer\tFeb\t2010
+bogus	-2	General\tInquirer\tFeb\t2010
+boisterous	-2	General\tInquirer\tFeb\t2010
+bolt	-2	General\tInquirer\tFeb\t2010
+bomb	-2	General\tInquirer\tFeb\t2010
+bondage	-2	General\tInquirer\tFeb\t2010
+bonehead	-2	Feb-11
+bonny	2	Hannes\tGI\tadd
+bonus	1	
+bore	-2	29\tJuly\t2009\t-\tchanged\tfrom\t-3
+boring	-2	
+bother	-2	
+bountiful	2	Hannes\tGI\tadd
+brag	-2	General\tInquirer\tFeb\t2010
+brandish	-2	General\tInquirer\tFeb\t2010
+brat	-2	General\tInquirer\tFeb\t2010
+bravado	-2	General\tInquirer\tFeb\t2010
+brave	3	removed\tbright	2	
+brawl	-2	General\tInquirer\tFeb\t2010
+brazen	-2	General\tInquirer\tFeb\t2010
+breach	-2	General\tInquirer\tFeb\t2010
+breakdown	-2	General\tInquirer\tFeb\t2010
+bribe	-2	General\tInquirer\tFeb\t2010
+brillian	2	
+bristle	-2	General\tInquirer\tFeb\t2010
+broke	-2	
+broken-hearted	-5	General\tInquirer\tFeb\t2010\tkev\tmod
+brokenhearted	-5	kev
+brood	-2	General\tInquirer\tFeb\t2010
+bruise	-2	General\tInquirer\tFeb\t2010
+brusque	-2	General\tInquirer\tFeb\t2010
+brutal	-3	
+brute	-2	General\tInquirer\tFeb\t2010
+brutish	-2	General\tInquirer\tFeb\t2010
+buckled	-2	General\tInquirer\tFeb\t2010
+buffoon	-2	Feb-11
+bug	-2	General\tInquirer\tFeb\t2010
+bullet	-2	General\tInquirer\tFeb\t2010
+bullshit	-3	Feb-11
+bum	-2	
+bumhole	-2	
+bungle	-2	General\tInquirer\tFeb\t2010
+bunkum	-2	Feb-11
+burden	-2	
+burgl	-2	General\tInquirer\tFeb\t2010
+buried	-3	General\tInquirer\tFeb\t2010
+burn	-2	General\tInquirer\tFeb\t2010
+bury	-3	General\tInquirer\tFeb\t2010
+busybody	-2	General\tInquirer\tFeb\t2010
+butchery	-2	General\tInquirer\tFeb\t2010
+calamit	-4	General\tInquirer\tFeb\t2010
+callous	-4	General\tInquirer\tFeb\t2010
+calm	2	
+cancel	-2	Feb-11
+cancer	-4	General\tInquirer\tFeb\t2010
+cannibal	-2	General\tInquirer\tFeb\t2010
+cannon	-2	General\tInquirer\tFeb\t2010
+capitulate	-2	General\tInquirer\tFeb\t2010
+capricious	-2	General\tInquirer\tFeb\t2010
+capsize	-2	General\tInquirer\tFeb\t2010
+captive	-2	General\tInquirer\tFeb\t2010
+capture	-2	General\tInquirer\tFeb\t2010
+care	2	
+cared	2	
+careen	-2	General\tInquirer\tFeb\t2010
+carefree	2	removed\tcareful	3	
+careless	-2	
+cares	2	
+caring	3	removed\tcasual	2	casually	2	certain	2	challeng	2	champ	2	charit	2	
+casualty	-3	General\tInquirer\tFeb\t2010
+cataclysm	-4	General\tInquirer\tFeb\t2010
+catastrophe	-4	General\tInquirer\tFeb\t2010
+cave	1	General\tInquirer\tFeb\t2010
+celebrat	2	Hannes\tGI\tadd
+censor	-2	General\tInquirer\tFeb\t2010
+censure	-2	General\tInquirer\tFeb\t2010
+chafe	-2	General\tInquirer\tFeb\t2010
+challenge	-2	General\tInquirer\tFeb\t2010
+chaos	-2	General\tInquirer\tFeb\t2010
+chaotic	-2	General\tInquirer\tFeb\t2010
+charge	-2	General\tInquirer\tFeb\t2010
+charm	2	
+chase	-2	General\tInquirer\tFeb\t2010
+chastise	-3	General\tInquirer\tFeb\t2010
+cheap	-2	General\tInquirer\tFeb\t2010
+cheat	-3	
+cheer	2	
+cheerful	3	kev
+cheeri	3	kev\tcheeriness
+cheerio	1	kev
+cheerlead	1	kev
+cheerless	-3	kev
+cherish	3	
+chide	-2	General\tInquirer\tFeb\t2010
+childish	-2	General\tInquirer\tFeb\t2010
+choke	-4	General\tInquirer\tFeb\t2010
+chore	-3	General\tInquirer\tFeb\t2010
+chronic	-3	General\tInquirer\tFeb\t2010
+chuckl	3	
+clamor	-1	General\tInquirer\tFeb\t2010
+claptrap	-2	Feb-11
+clash	-2	General\tInquirer\tFeb\t2010
+clatter	-2	General\tInquirer\tFeb\t2010
+clever	1	
+clique	-2	General\tInquirer\tFeb\t2010
+clog	-2	General\tInquirer\tFeb\t2010
+clumsy	-2	General\tInquirer\tFeb\t2010
+clutter	-2	General\tInquirer\tFeb\t2010
+coarse	-2	General\tInquirer\tFeb\t2010
+cock	-2	Feb-11
+cockiness	-2	General\tInquirer\tFeb\t2010
+cocksucker	-4	Feb-11
+cocky	-2	General\tInquirer\tFeb\t2010
+coerc	-3	General\tInquirer\tFeb\t2010
+cold	-2	General\tInquirer\tFeb\t2010
+collapse	-2	General\tInquirer\tFeb\t2010
+collide	-2	General\tInquirer\tFeb\t2010
+collision	-2	General\tInquirer\tFeb\t2010
+collusion	-2	General\tInquirer\tFeb\t2010
+combat	-2	General\tInquirer\tFeb\t2010
+combatant	-2	General\tInquirer\tFeb\t2010
+comed	1	
+comedown	-2	kev
+comfort	2	kev\tchange\tremoved	commitment	2
+comfortless	-3	kev
+commemorate	-2	Feb-11
+commiseration	-2	General\tInquirer\tFeb\t2010
+commit	1	kev\tmod
+commoner	-2	General\tInquirer\tFeb\t2010
+commonplace	1	kev\tmod
+commotion	-2	General\tInquirer\tFeb\t2010
+compassion	2	
+compel	-2	General\tInquirer\tFeb\t2010
+complain	-2	
+complicate	-2	General\tInquirer\tFeb\t2010
+complication	-2	General\tInquirer\tFeb\t2010
+complicity	-2	General\tInquirer\tFeb\t2010
+compliment	2	
+compulsion	-2	General\tInquirer\tFeb\t2010
+conceal	-2	General\tInquirer\tFeb\t2010
+conceit	-2	General\tInquirer\tFeb\t2010
+concern	-2	General\tInquirer\tFeb\t2010
+condemn	-2	General\tInquirer\tFeb\t2010
+condemnation	-2	General\tInquirer\tFeb\t2010
+condescen	-3	General\tInquirer\tFeb\t2010
+condol	-3	Arvid\tspotted\tMay\t2011
+confes	-2	Feb-11
+confidence	2	
+confidences	1	kev
+confident	2	
+confidently	2	
+confine	-2	General\tInquirer\tFeb\t2010
+confinement	-2	General\tInquirer\tFeb\t2010
+confiscate	-2	General\tInquirer\tFeb\t2010
+confiscation	-2	General\tInquirer\tFeb\t2010
+conflict	-2	General\tInquirer\tFeb\t2010
+confound	-2	General\tInquirer\tFeb\t2010
+confront	-3	
+confus	-2	
+congested	-2	General\tInquirer\tFeb\t2010
+congestion	-2	General\tInquirer\tFeb\t2010
+congratulate	2	Hannes\tGI\tadd
+congratulation	3	Hannes\tGI\tadd
+congratulatory	2	Hannes\tGI\tadd
+considerate	2	
+conspiracy	-2	General\tInquirer\tFeb\t2010
+conspirator	-2	General\tInquirer\tFeb\t2010
+conspire	-2	General\tInquirer\tFeb\t2010
+consternation	-2	General\tInquirer\tFeb\t2010
+constrain	-2	General\tInquirer\tFeb\t2010
+consumptive	-2	General\tInquirer\tFeb\t2010
+contagio	-2	General\tInquirer\tFeb\t2010
+contaminat	-2	General\tInquirer\tFeb\t2010
+contempt	-4	
+contend	-2	General\tInquirer\tFeb\t2010
+contented	2	
+contentment	2	
+contradic	-2	removed	convinc	2
+contrary	-2	General\tInquirer\tFeb\t2010
+controvers	-2	General\tInquirer\tFeb\t2010
+convict	-2	General\tInquirer\tFeb\t2010
+cool	2	
+coolest	3	ur\tda\tcoolest\tmom\tever!!
+coolly	-2	kev
+coolness	-2	kev
+corrode	-2	General\tInquirer\tFeb\t2010
+corrosion	-2	General\tInquirer\tFeb\t2010
+corrosive	-2	General\tInquirer\tFeb\t2010
+corrupt	-3	General\tInquirer\tFeb\t2010
+corruption	-3	General\tInquirer\tFeb\t2010
+cosi	2	kev
+costliness	-2	General\tInquirer\tFeb\t2010
+costly	-2	General\tInquirer\tFeb\t2010
+cosy	3	kev
+counteract	-2	General\tInquirer\tFeb\t2010
+counteraction	-2	General\tInquirer\tFeb\t2010
+counterfeit	-2	General\tInquirer\tFeb\t2010
+courag	2	
+courteous	3	Hannes\tGI\tadd
+covert	-2	General\tInquirer\tFeb\t2010
+covet	-2	General\tInquirer\tFeb\t2010
+coward	-2	General\tInquirer\tFeb\t2010
+cozi	2	kev
+cozy	2	kev
+crafty	-2	General\tInquirer\tFeb\t2010
+cram	-2	General\tInquirer\tFeb\t2010
+cramp	-2	General\tInquirer\tFeb\t2010
+cranky	-2	General\tInquirer\tFeb\t2010
+crap	-3	
+crappy	-3	
+crass	-2	General\tInquirer\tFeb\t2010
+crave	-2	General\tInquirer\tFeb\t2010
+crawl	-1	General\tInquirer\tFeb\t2010
+craz	-1	removed\tcreate	2	creati	2	credit	2	
+craze	-2	General\tInquirer\tFeb\t2010
+craziness	-2	General\tInquirer\tFeb\t2010
+crazy	-2	General\tInquirer\tFeb\t2010
+credulous	-2	General\tInquirer\tFeb\t2010
+cried	-4	
+cries	-3	
+crime	-2	Feb-11
+criminal	-2	Feb-11
+cringe	-2	General\tInquirer\tFeb\t2010
+cripple	-2	General\tInquirer\tFeb\t2010\tkev\tmod
+crisis	-3	Feb-11
+critic	-2	General\tInquirer\tFeb\t2010
+critical	-2	
+critici	-2	
+croak	-2	General\tInquirer\tFeb\t2010
+crook	-2	General\tInquirer\tFeb\t2010
+crooked	-2	General\tInquirer\tFeb\t2010
+cross	-2	General\tInquirer\tFeb\t2010
+crude	-2	
+cruel	-4	
+crumble	-2	General\tInquirer\tFeb\t2010
+crumple	-2	General\tInquirer\tFeb\t2010
+crush	-2	General\tInquirer\tFeb\t2010
+crushed	-1	
+crushing	-2	General\tInquirer\tFeb\t2010
+cry	-4	
+crye	-4	misspelling
+crying	-4	
+cuddl	3	kev
+culpable	-2	General\tInquirer\tFeb\t2010
+culprit	-2	General\tInquirer\tFeb\t2010
+cumbersome	-2	General\tInquirer\tFeb\t2010
+cunt	-4	removed	cut	-2
+curse	-2	General\tInquirer\tFeb\t2010
+cursory	-2	General\tInquirer\tFeb\t2010
+curt	-2	General\tInquirer\tFeb\t2010
+curtail	-2	General\tInquirer\tFeb\t2010
+cute	2	
+cutie	2	
+cynic	-2	
+damag	-1	
+damn	-2	auto\tcheck\t4\taug\t2009
+danger	-2	
+daring	1	
+dark	-1	General\tInquirer\tFeb\t2010
+darken	-1	General\tInquirer\tFeb\t2010
+darkness	-1	General\tInquirer\tFeb\t2010
+darlin	3	
+darn	-2	General\tInquirer\tFeb\t2010
+daunting	-2	General\tInquirer\tFeb\t2010
+dawdle	-2	General\tInquirer\tFeb\t2010
+daze	-2	
+dead	-3	Feb-11
+deadliness	-2	kev\tmod\tJune\t2011
+deadlock	-2	General\tInquirer\tFeb\t2010
+deadly	-2	General\tInquirer\tFeb\t2010
+deadweight	-2	General\tInquirer\tFeb\t2010
+deaf	-2	General\tInquirer\tFeb\t2010
+dear	2	
+dearth	-2	General\tInquirer\tFeb\t2010
+death	-3	Feb-11
+debatable	-2	General\tInquirer\tFeb\t2010
+debtor	-2	General\tInquirer\tFeb\t2010
+decadence	-2	General\tInquirer\tFeb\t2010
+decadent	-2	General\tInquirer\tFeb\t2010
+decay	-2	Feb-11
+decease	-2	General\tInquirer\tFeb\t2010
+deceit	-2	General\tInquirer\tFeb\t2010
+deceitful	-3	General\tInquirer\tFeb\t2010
+deceive	-2	General\tInquirer\tFeb\t2010
+deception	-2	General\tInquirer\tFeb\t2010
+deceptive	-2	General\tInquirer\tFeb\t2010
+decline	-2	General\tInquirer\tFeb\t2010
+decompos	-2	General\tInquirer\tFeb\t2010
+decrease	-2	General\tInquirer\tFeb\t2010
+defam	-2	General\tInquirer\tFeb\t2010
+default	-2	General\tInquirer\tFeb\t2010
+defeat	-1	
+defeatis	-2	kev
+defect	-2	
+defective	-3	kev
+defenc	-1	removed	defens	-1	definite	2	definitely	2
+defendant	-2	General\tInquirer\tFeb\t2010
+defensive	-2	General\tInquirer\tFeb\t2010
+defiance	-2	General\tInquirer\tFeb\t2010
+defiant	-2	General\tInquirer\tFeb\t2010
+deficiency	-2	General\tInquirer\tFeb\t2010
+deficient	-2	General\tInquirer\tFeb\t2010
+deficit	-2	General\tInquirer\tFeb\t2010
+defile	-2	General\tInquirer\tFeb\t2010
+defy	-2	General\tInquirer\tFeb\t2010
+degenerate	-2	General\tInquirer\tFeb\t2010
+degrad	-3	kev\tmod
+dejected	-2	General\tInquirer\tFeb\t2010
+delay	-2	General\tInquirer\tFeb\t2010
+delectabl	3	removed	delicate	2
+delicious	3	
+deligh	3	
+delinquency	-2	General\tInquirer\tFeb\t2010
+delinquent	-2	General\tInquirer\tFeb\t2010
+delirium	-2	General\tInquirer\tFeb\t2010
+deluge	-2	General\tInquirer\tFeb\t2010
+delusion	-2	General\tInquirer\tFeb\t2010
+demean	-2	General\tInquirer\tFeb\t2010
+demeano	1	kev\tmod
+demise	-2	General\tInquirer\tFeb\t2010
+demolish	-2	General\tInquirer\tFeb\t2010
+demon	-2	General\tInquirer\tFeb\t2010
+demoralize	-2	General\tInquirer\tFeb\t2010
+denial	-2	General\tInquirer\tFeb\t2010
+denied	-2	Feb-11
+denounce	-2	General\tInquirer\tFeb\t2010
+dent	-2	General\tInquirer\tFeb\t2010
+deny	-2	Feb-11
+dependent	-2	General\tInquirer\tFeb\t2010
+deplete	-2	General\tInquirer\tFeb\t2010
+deplorable	-2	General\tInquirer\tFeb\t2010
+deplore	-2	General\tInquirer\tFeb\t2010
+depose	-2	General\tInquirer\tFeb\t2010
+deprav	-4	General\tInquirer\tFeb\t2010
+depreciate	-2	General\tInquirer\tFeb\t2010
+depreciation	-2	General\tInquirer\tFeb\t2010
+depress	-4	
+depriv	-2	
+deride	-2	General\tInquirer\tFeb\t2010
+derision	-2	General\tInquirer\tFeb\t2010
+derisive	-2	General\tInquirer\tFeb\t2010
+derogatory	-2	General\tInquirer\tFeb\t2010
+desert	-1	General\tInquirer\tFeb\t2010
+deserting	-2	General\tInquirer\tFeb\t2010
+desertion	-2	General\tInquirer\tFeb\t2010
+desirable	4	Hannes\tGI\tadd
+desolate	-2	General\tInquirer\tFeb\t2010
+desolation	-2	General\tInquirer\tFeb\t2010
+despair	-4	
+desperat	-3	
+despicable	-4	General\tInquirer\tFeb\t2010
+despis	-4	
+destitut	-3	General\tInquirer\tFeb\t2010
+destroy	-3	
+destroyer	1	kev\tmod
+destruct	-1	
+destruction	-2	kev\tmod
+detachment	-2	General\tInquirer\tFeb\t2010
+detain	-2	General\tInquirer\tFeb\t2010
+deter	-2	General\tInquirer\tFeb\t2010
+determina	1	
+determined	1	
+deterrent	-2	General\tInquirer\tFeb\t2010
+detest	-4	General\tInquirer\tFeb\t2010
+detract	-2	General\tInquirer\tFeb\t2010
+detrimental	-2	General\tInquirer\tFeb\t2010
+devastat	-5	kev\tmod
+devastate	-3	kev\tmod
+deviate	-2	General\tInquirer\tFeb\t2010
+deviation	-2	General\tInquirer\tFeb\t2010
+devil	-2	
+devious	-2	General\tInquirer\tFeb\t2010\tkev\tmod
+devoid	-2	General\tInquirer\tFeb\t2010
+devot	3	
+diabolic	-2	General\tInquirer\tFeb\t2010
+dickhead	-2	Feb-11
+dictate	-2	General\tInquirer\tFeb\t2010
+dictatorial	-2	General\tInquirer\tFeb\t2010
+differ	-2	General\tInquirer\tFeb\t2010
+difficult	-2	
+digni	2	removed	disadvantage	-2
+dignitar	1	kev\tmod
+dilemma	-2	General\tInquirer\tFeb\t2010
+dim	-2	General\tInquirer\tFeb\t2010
+dimwit	-2	Feb-11
+din	-2	General\tInquirer\tFeb\t2010
+dipshit	-2	Feb-11
+dire	-2	General\tInquirer\tFeb\t2010
+dirt	-2	General\tInquirer\tFeb\t2010
+dirty	-2	Feb-11
+disable	-2	General\tInquirer\tFeb\t2010
+disadvantage	-2	General\tInquirer\tFeb\t2010
+disagre	-2	Feb-11
+disagree	-2	
+disappoint	-2	
+disapprov	-2	Feb-11
+disarm	-2	General\tInquirer\tFeb\t2010
+disaster	-2	
+disastrous	-4	General\tInquirer\tFeb\t2010
+disavow	-2	General\tInquirer\tFeb\t2010
+disbelief	-2	General\tInquirer\tFeb\t2010
+discharge	-2	General\tInquirer\tFeb\t2010
+disclaim	-2	General\tInquirer\tFeb\t2010
+discomfort	-2	
+disconcerted	-2	General\tInquirer\tFeb\t2010
+discontent	-2	General\tInquirer\tFeb\t2010
+discord	-2	General\tInquirer\tFeb\t2010
+discordant	-2	General\tInquirer\tFeb\t2010
+discourag	-2	
+discredit	-2	General\tInquirer\tFeb\t2010
+discrepant	-2	General\tInquirer\tFeb\t2010
+discriminate	-2	General\tInquirer\tFeb\t2010
+discrimination	-3	Feb-11
+disdain	-2	General\tInquirer\tFeb\t2010
+disease	-3	General\tInquirer\tFeb\t2010
+disgrace	-4	General\tInquirer\tFeb\t2010
+disguise	-2	General\tInquirer\tFeb\t2010
+disgust	-4	
+dishearten	-2	
+dishonest	-2	General\tInquirer\tFeb\t2010
+dishonor	-2	General\tInquirer\tFeb\t2010
+disillusion	-2	
+disingenuous	-2	General\tInquirer\tFeb\t2010
+disinterest	-2	General\tInquirer\tFeb\t2010
+dislike	-3	
+disliking	-3	
+dismal	-2	General\tInquirer\tFeb\t2010
+dismay	-3	
+dismiss	-2	General\tInquirer\tFeb\t2010
+disobedience	-2	General\tInquirer\tFeb\t2010
+disobedient	-2	General\tInquirer\tFeb\t2010
+disorder	-2	General\tInquirer\tFeb\t2010
+disorganized	-2	General\tInquirer\tFeb\t2010
+disparage	-2	Feb-11
+dispel	-2	General\tInquirer\tFeb\t2010
+dispensability	-2	General\tInquirer\tFeb\t2010
+dispense	-2	General\tInquirer\tFeb\t2010
+displace	-2	General\tInquirer\tFeb\t2010
+displease	-3	General\tInquirer\tFeb\t2010
+displeasure	-3	General\tInquirer\tFeb\t2010
+disposal	-2	General\tInquirer\tFeb\t2010
+dispose	-2	General\tInquirer\tFeb\t2010
+disproportionate	-2	General\tInquirer\tFeb\t2010
+disprove	-2	General\tInquirer\tFeb\t2010
+disputable	-2	General\tInquirer\tFeb\t2010
+dispute	-2	General\tInquirer\tFeb\t2010
+disregard	-2	General\tInquirer\tFeb\t2010
+disrupt	-2	General\tInquirer\tFeb\t2010
+dissatisf	-2	
+dissent	-2	General\tInquirer\tFeb\t2010
+dissolution	-2	General\tInquirer\tFeb\t2010
+distort	-2	General\tInquirer\tFeb\t2010
+distract	-2	
+distraught	-4	
+distress	-3	
+distrust	-2	
+disturb	-2	
+divert	-1	General\tInquirer\tFeb\t2010
+divin	2	removed	domina	-2
+division	-2	General\tInquirer\tFeb\t2010
+divorce	-2	General\tInquirer\tFeb\t2010
+dizziness	-2	General\tInquirer\tFeb\t2010
+dizzy	-2	General\tInquirer\tFeb\t2010
+doldrums	-2	General\tInquirer\tFeb\t2010
+dolt	-2	Feb-11
+dominate	-2	General\tInquirer\tFeb\t2010
+domination	-2	General\tInquirer\tFeb\t2010
+doom	-2	
+dope	-2	General\tInquirer\tFeb\t2010
+dork	-3	
+doubt	-2	
+douchebag	-2	Feb-11
+downcast	-3	General\tInquirer\tFeb\t2010\tkev\tmod
+downfall	-2	General\tInquirer\tFeb\t2010
+downhearted	-3	General\tInquirer\tFeb\t2010\tkev\tmod
+drab	-2	General\tInquirer\tFeb\t2010
+drag	-2	General\tInquirer\tFeb\t2010
+dread	-4	
+dreary	-2	General\tInquirer\tFeb\t2010\tkev\tmod
+drivel	-2	Feb-11
+droop	-2	General\tInquirer\tFeb\t2010
+drop	-2	General\tInquirer\tFeb\t2010
+drought	-2	General\tInquirer\tFeb\t2010
+drown	-2	General\tInquirer\tFeb\t2010
+drowsiness	-2	General\tInquirer\tFeb\t2010
+drowsy	-2	General\tInquirer\tFeb\t2010
+drunk	-2	General\tInquirer\tFeb\t2010
+dubious	-2	General\tInquirer\tFeb\t2010
+dull	-2	
+dumb	-2	Feb-11
+dump	-2	
+dumpcart	1	kev\tmod
+dumper	1	kev\tmod
+dumpling	1	kev\tmod
+dunce	-2	Feb-11
+dunderhead	-2	Feb-11
+dungeon	-2	General\tInquirer\tFeb\t2010
+duty	-2	General\tInquirer\tFeb\t2010
+dwell	-1	
+dwindle	-2	General\tInquirer\tFeb\t2010
+dying	-2	General\tInquirer\tFeb\t2010
+dynamic	2	kev\tmod
+dynamism	2	kev\tmod
+eager	1	
+ease	1	
+easie	1	
+easily	1	
+easiness	1	
+easing	1	
+easy	1	
+easygoing	2	kev\tmod
+eccentric	-2	General\tInquirer\tFeb\t2010
+eccentricity	-2	General\tInquirer\tFeb\t2010
+ecsta	4	removed	efficien	2
+eejit	-3	Feb-11
+egotis	-3	
+elegan	2	
+eliminate	-2	General\tInquirer\tFeb\t2010
+elimination	-2	General\tInquirer\tFeb\t2010
+embarrass	-3	
+emergencies	-2	General\tInquirer\tFeb\t2010
+emergency	-2	General\tInquirer\tFeb\t2010
+emotional	-2	
+empt	-1	
+emptiness	-3	kev\tmod
+encourag	2	
+encroach	-2	General\tInquirer\tFeb\t2010
+endanger	-2	General\tInquirer\tFeb\t2010
+enemie	-2	
+enemy	-2	
+energ	1	
+enforce	-2	General\tInquirer\tFeb\t2010
+engag	1	
+engagingly	2	kev\tmod
+engulf	-2	General\tInquirer\tFeb\t2010
+enjoy	3	
+enrag	-4	removed	entertain	2
+enslave	-3	General\tInquirer\tFeb\t2010
+entangle	-2	General\tInquirer\tFeb\t2010
+enthus	3	
+entreat	-2	General\tInquirer\tFeb\t2010
+envie	-3	
+envious	-3	
+envy	-3	
+epidemic	-2	General\tInquirer\tFeb\t2010
+epithet	-2	General\tInquirer\tFeb\t2010
+equivocal	-2	General\tInquirer\tFeb\t2010
+eradicate	-2	General\tInquirer\tFeb\t2010
+erase	-2	General\tInquirer\tFeb\t2010
+erode	-2	General\tInquirer\tFeb\t2010
+erosion	-2	General\tInquirer\tFeb\t2010
+err	-2	General\tInquirer\tFeb\t2010
+erroneous	-2	General\tInquirer\tFeb\t2010
+error	-2	General\tInquirer\tFeb\t2010
+esoteric	-2	General\tInquirer\tFeb\t2010
+estranged	-2	General\tInquirer\tFeb\t2010
+evade	-2	General\tInquirer\tFeb\t2010
+evasion	-2	General\tInquirer\tFeb\t2010
+evict	-3	General\tInquirer\tFeb\t2010
+evil	-3	
+exaggerat	-2	General\tInquirer\tFeb\t2010
+exasperat	-2	General\tInquirer\tFeb\t2010
+excel	3	Jul-11
+excellence	4	Hannes\tGI\tadd
+excellent	4	Jul-11
+excess	-2	General\tInquirer\tFeb\t2010
+excessive	-2	General\tInquirer\tFeb\t2010
+excit	3	
+exclude	-2	General\tInquirer\tFeb\t2010
+exclusion	-2	General\tInquirer\tFeb\t2010
+excommunicat	-2	General\tInquirer\tFeb\t2010
+excrement	-4	Feb-11
+excruciat	-5	
+execute	-2	General\tInquirer\tFeb\t2010
+exempt	-2	General\tInquirer\tFeb\t2010
+exhaust	-2	
+exile	-2	General\tInquirer\tFeb\t2010
+exit	-2	General\tInquirer\tFeb\t2010
+expedient	-2	General\tInquirer\tFeb\t2010
+expel	-2	General\tInquirer\tFeb\t2010
+expense	-2	General\tInquirer\tFeb\t2010
+expensive	-2	General\tInquirer\tFeb\t2010
+explode	-2	General\tInquirer\tFeb\t2010
+explosion	-2	General\tInquirer\tFeb\t2010
+explosive	-2	General\tInquirer\tFeb\t2010
+expose	-2	General\tInquirer\tFeb\t2010
+exterminat	-2	General\tInquirer\tFeb\t2010
+extinct	-2	General\tInquirer\tFeb\t2010
+extinguish	-2	General\tInquirer\tFeb\t2010
+extravagant	-2	General\tInquirer\tFeb\t2010
+exuberan	3	kev\tadd
+fab	3	
+fabricat	-2	General\tInquirer\tFeb\t2010
+fabulous	3	
+faggot	-2	Feb-11
+fail	-3	
+faint	-2	General\tInquirer\tFeb\t2010
+faith	2	
+faithless	-3	kev\tadd
+fake	-2	
+fallacy	-2	General\tInquirer\tFeb\t2010
+fallout	-2	General\tInquirer\tFeb\t2010
+falsehood	-2	General\tInquirer\tFeb\t2010
+falter	-2	General\tInquirer\tFeb\t2010
+famine	-2	General\tInquirer\tFeb\t2010
+famished	-2	General\tInquirer\tFeb\t2010
+fanatic	-2	General\tInquirer\tFeb\t2010
+fantastic	3	
+fantastical	1	kev\tmod
+farce	-2	General\tInquirer\tFeb\t2010
+fascist	-2	General\tInquirer\tFeb\t2010
+fat	-2	Feb-11
+fatal	-3	
+fathead	-3	Feb-11
+fatigu	-3	
+fatty	-2	Feb-11
+fault	-2	
+favor	2	
+favoritism	-2	kev\tadd
+favour	2	
+favouritism	-2	kev\tadd
+fear	-4	
+feared	-3	
+fearful	-3	
+fearing	-3	
+fearless	2	
+fears	-3	
+fearsome	-2	General\tInquirer\tFeb\t2010
+feeble	-2	General\tInquirer\tFeb\t2010
+feign	-2	General\tInquirer\tFeb\t2010
+feint	-2	General\tInquirer\tFeb\t2010
+feroc	-4	
+festiv	1	
+feud	-3	
+fever	-2	General\tInquirer\tFeb\t2010
+feverish	-2	General\tInquirer\tFeb\t2010
+fiasco	-2	General\tInquirer\tFeb\t2010
+fickle	-2	General\tInquirer\tFeb\t2010
+fidget	-2	General\tInquirer\tFeb\t2010
+fiend	-3	General\tInquirer\tFeb\t2010
+fierce	-3	General\tInquirer\tFeb\t2010
+fiery	-2	
+fiesta	1	
+fight	-3	
+filth	-4	Feb-11
+filthy	-2	General\tInquirer\tFeb\t2010
+fine	3	auto\tcheck\t4\taug\t2009
+fired	-3	removed	flatter	1
+fist	-2	General\tInquirer\tFeb\t2010
+flagrant	-2	General\tInquirer\tFeb\t2010
+flame	-3	
+flamed	-3	
+flaw	-2	General\tInquirer\tFeb\t2010
+flawless	2	
+fled	-2	General\tInquirer\tFeb\t2010
+flee	-2	General\tInquirer\tFeb\t2010
+fleeting	-2	General\tInquirer\tFeb\t2010
+flexib	1	
+flimsy	-2	General\tInquirer\tFeb\t2010
+flirt	2	
+flounder	-2	General\tInquirer\tFeb\t2010
+flunk	-3	
+foe	-3	
+foet	1	kev\tadd	foetus\tand\trelated	
+foetid	-5	kev\tadd
+foible	-2	General\tInquirer\tFeb\t2010
+fond	3	
+fondly	3	
+fondness	3	
+fool	-2	
+forbid	-2	
+forbidding	-3	kev\tadd
+force	-2	General\tInquirer\tFeb\t2010
+foreboding	-2	General\tInquirer\tFeb\t2010
+foreign	-2	General\tInquirer\tFeb\t2010
+forfeit	-2	General\tInquirer\tFeb\t2010
+forgave	2	
+forgetfulness	-2	General\tInquirer\tFeb\t2010
+forgiv	2	
+forlorn	-3	General\tInquirer\tFeb\t2010
+formidable	-2	General\tInquirer\tFeb\t2010
+forsake	-2	General\tInquirer\tFeb\t2010
+fought	-3	
+founder	-2	General\tInquirer\tFeb\t2010
+fracture	-2	General\tInquirer\tFeb\t2010
+fragile	-2	General\tInquirer\tFeb\t2010
+frantic	-2	
+fraud	-2	General\tInquirer\tFeb\t2010
+fraught	-2	General\tInquirer\tFeb\t2010
+freak	-2	removed	free	2	free	2	freeb	2	freed	2	freeing	2	freely	2	freeness	2	freer	2	frees	2
+fret	-3	General\tInquirer\tFeb\t2010\tkev\tmod	kev\tremove\tfretful	-2	General\tInquirer\tFeb\t2010	
+fretsaw	-1	kev\tadd
+friend	2	kev\tadd\tback\tin
+fright	-4	
+frigid	-2	General\tInquirer\tFeb\t2010\tkev\tmod
+frivolous	-2	General\tInquirer\tFeb\t2010
+frolic	4	Hannes\tGI\tadd
+frown	-2	General\tInquirer\tFeb\t2010
+fruitless	-2	General\tInquirer\tFeb\t2010
+frustrat	-3	
+fuck	-3	
+fucked	-3	
+fucker	-3	
+fuckface	-3	Feb-11
+fuckin	-1	'changed\tfrom\t-3\t-\ta\tbooster\tword\tmore\tthan\ta\tnegative\tword
+fucks	-3	
+fuckwit	-2	Feb-11
+fuctard	-2	Feb-11
+fud	-3	fear,\tuncertainty\tand\tdoubt
+fugitive	-2	General\tInquirer\tFeb\t2010
+fugly	-4	Feb-11
+fumble	-2	General\tInquirer\tFeb\t2010
+fume	-3	
+fumes	-2	kev\tmod
+fuming	-4	
+fun	2	
+funn	2	
+funnel	1	kev\tmod
+furious	-4	
+fury	-4	
+fuss	-2	General\tInquirer\tFeb\t2010
+fussy	-2	General\tInquirer\tFeb\t2010
+futility	-2	General\tInquirer\tFeb\t2010
+gall	-2	General\tInquirer\tFeb\t2010
+gamble	-2	General\tInquirer\tFeb\t2010
+gaol	-2	Feb-11
+garbage	-3	Feb-11
+gash	-2	General\tInquirer\tFeb\t2010
+gassed	-2	Feb-11
+gaudy	-2	General\tInquirer\tFeb\t2010
+gay	-2	common\tin\tUS\tas\tterm\tof\tabuse
+geek	-1	
+genero	2	
+gentle	2	
+gentler	3	
+gentlest	3	
+gently	2	
+germ	-2	General\tInquirer\tFeb\t2010
+ghastly	-2	General\tInquirer\tFeb\t2010
+ghetto	-2	General\tInquirer\tFeb\t2010
+gibberi	-2	Feb-11
+giggl	3	removed	giver	2	giving	2
+glad	2	
+gladden	3	Hannes\tGI\tadd
+gladly	2	
+gladness	3	Hannes\tGI\tadd
+glamor	2	
+glamour	2	
+glare	-2	General\tInquirer\tFeb\t2010
+gloat	-2	General\tInquirer\tFeb\t2010
+gloom	-3	
+glori	2	
+glorification	-2	kev\tmod
+glory	2	
+glum	-3	General\tInquirer\tFeb\t2010\tkev\tmod
+gmbo	3	giggling\tmy\tbutt\toff
+goddam	-3	
+good	2	Could\talso\tbe\t1?
+goodness	3	
+gorgeous	3	
+gossip	-1	
+grab	-2	General\tInquirer\tFeb\t2010
+grace	3	
+graced	2	
+graceful	3	
+graces	2	
+graci	2	
+gracil	1	kev\tmod
+grand	2	
+grande	2	
+grapple	-2	General\tInquirer\tFeb\t2010
+gratef	2	
+grati	2	
+gratuitous	-2	General\tInquirer\tFeb\t2010
+grave	-3	
+gravel	1	kev\tmod
+great	3	auto\tcheck\t4\taug\t2009
+greed	-3	
+grief	-4	
+griev	-4	
+grim	-3	
+grime	-2	kev\tadd
+grimi	-2	kev\tadd
+grin	2	
+grinn	2	
+grins	2	
+grizzly	-2	General\tInquirer\tFeb\t2010
+gross	-2	
+grotesque	-2	General\tInquirer\tFeb\t2010
+grouch	-2	
+groucho	1	kev\tadd
+growl	-2	General\tInquirer\tFeb\t2010
+grr	-3	
+grudge	-2	General\tInquirer\tFeb\t2010
+gruff	-2	General\tInquirer\tFeb\t2010
+grumbl	-3	General\tInquirer\tFeb\t2010
+guerrilla	-2	General\tInquirer\tFeb\t2010
+guilt	-4	
+guiltless	1	kev\tadd
+guise	-2	General\tInquirer\tFeb\t2010
+gullible	-2	General\tInquirer\tFeb\t2010
+gun	-2	General\tInquirer\tFeb\t2010
+gunmen	-2	General\tInquirer\tFeb\t2010
+h8	-4	hate
+ha	2	
+hack	-2	
+hag	-2	General\tInquirer\tFeb\t2010
+haggard	-2	General\tInquirer\tFeb\t2010
+haha	2	
+halfwit	-2	Feb-11
+handicap	-2	General\tInquirer\tFeb\t2010
+handsom	2	
+hang	-2	General\tInquirer\tFeb\t2010
+hangover	-3	Feb-11
+haphazard	-2	General\tInquirer\tFeb\t2010
+hapless	-2	General\tInquirer\tFeb\t2010
+happi	3	
+happy	2	27\tJuly\t2009\tdown\tfrom\t+3
+harass	-3	
+hardship	-2	General\tInquirer\tFeb\t2010
+harm	-3	
+harmed	-3	
+harmful	-2	
+harming	-3	
+harmless	2	
+harmon	2	
+harmonic	1	kev\tadd
+harmonies	1	kev\tadd
+harmonisation	1	kev\tadd
+harmonization	1	kev\tadd
+harms	-3	
+harsh	-2	General\tInquirer\tFeb\t2010
+hassle	-2	General\tInquirer\tFeb\t2010
+hate	-4	
+hated	-4	
+hateful	-4	
+hater	-4	
+hates	-4	
+hating	-4	
+hatred	-4	
+haughty	-2	General\tInquirer\tFeb\t2010
+haunt	-2	General\tInquirer\tFeb\t2010
+havoc	-2	General\tInquirer\tFeb\t2010
+hazard	-2	General\tInquirer\tFeb\t2010
+hazardous	-2	General\tInquirer\tFeb\t2010
+haziness	-2	General\tInquirer\tFeb\t2010
+hazy	-2	General\tInquirer\tFeb\t2010
+headache	-2	General\tInquirer\tFeb\t2010
+heartbreak	-4	
+heartbroke	-4	
+heartfelt	2	
+heartless	-3	
+heartwarm	3	
+heaven	2	
+hectic	-2	this\tyear\thas\tbeen\thectic
+heedless	-2	General\tInquirer\tFeb\t2010
+hehe	2	
+heinous	-5	General\tInquirer\tFeb\t2010\tkev\tmod
+hell	-2	29\tJuly\t2009\t-\tchanged\tfrom\t-3
+hellish	-3	removed	helper	2
+helpful	2	helping	2	
+helpless	-2	removed	helps	2
+hero	3	
+hesita	-1	
+hey	2	27-Jul-09
+hideous	-2	Feb-11
+hijack	-2	Feb-11
+hilarious	3	
+hilarity	3	kev\tadd
+hinder	-2	General\tInquirer\tFeb\t2010
+hindrance	-2	General\tInquirer\tFeb\t2010
+hoard	-2	General\tInquirer\tFeb\t2010
+hobble	-2	General\tInquirer\tFeb\t2010
+hogwash	-2	Feb-11
+hoho	3	
+hollow	-2	General\tInquirer\tFeb\t2010
+homely	-2	General\tInquirer\tFeb\t2010
+homesick	-3	
+homie	2	27-Jul-09
+homo	-3	Feb-11
+honest	1	
+honesty	2	kev\tadd
+honor	1	
+honorabl	2	kev\tadd
+honour	1	
+honourabl	2	kev\tadd
+hooey	-2	Feb-11
+hope	3	auto\tcheck\t4\taug\t2009
+hoped	2	
+hopeful	2	
+hopefully	1	
+hopefulness	2	
+hopeless	-4	
+hopes	2	
+hoping	2	
+horde	-2	General\tInquirer\tFeb\t2010
+horr	-4	
+hostil	-3	
+hug	3	
+hugg	3	
+hugs	3	
+humiliat	-4	
+humor	3	
+humorless	-3	kev\tadd
+humour	3	
+humourless	-3	kev\tadd
+hunger	-2	General\tInquirer\tFeb\t2010
+hungr	-2	new\t-\thungry
+hunter	-2	General\tInquirer\tFeb\t2010
+hurra	3	
+hurt	-3	removed	ideal	2
+hurtl	1	kev\tadd
+hustle	-2	General\tInquirer\tFeb\t2010
+hustler	-2	General\tInquirer\tFeb\t2010
+hypochondriac	-2	Feb-11
+hypocrisy	-2	General\tInquirer\tFeb\t2010
+hypocrite	-3	Feb-11
+hysteria	-2	General\tInquirer\tFeb\t2010
+hysterical	-2	General\tInquirer\tFeb\t2010
+idioc	-3	kev\tadd
+idiot	-3	kev\tmod
+idleness	-2	General\tInquirer\tFeb\t2010
+ignoble	-2	General\tInquirer\tFeb\t2010
+ignor	-3	
+ignore	1	kev\tadd
+ignoring	1	kev\tadd
+ill	-2	General\tInquirer\tFeb\t2010
+illegal	-2	General\tInquirer\tFeb\t2010
+illegality	-2	General\tInquirer\tFeb\t2010
+illiterate	-2	Feb-11
+illness	-2	General\tInquirer\tFeb\t2010
+illogical	-2	General\tInquirer\tFeb\t2010
+imaginative	2	Hannes\tGI\tadd
+imbecile	-2	Feb-11
+immaculate	2	Hannes\tGI\tadd
+immature	-2	General\tInquirer\tFeb\t2010
+immobility	-2	General\tInquirer\tFeb\t2010
+immoral	-3	
+immortal	2	Hannes\tGI\tadd
+immovable	-2	General\tInquirer\tFeb\t2010
+impair	-2	General\tInquirer\tFeb\t2010
+impasse	-2	General\tInquirer\tFeb\t2010
+impatien	-2	
+impede	-2	General\tInquirer\tFeb\t2010
+impediment	-2	General\tInquirer\tFeb\t2010
+imperfect	-2	General\tInquirer\tFeb\t2010
+impersonal	-1	
+impetuous	-2	General\tInquirer\tFeb\t2010
+implicate	-2	General\tInquirer\tFeb\t2010
+implore	-2	General\tInquirer\tFeb\t2010
+impolite	-3	
+importan	1	
+impose	-2	General\tInquirer\tFeb\t2010
+imprecision	-2	General\tInquirer\tFeb\t2010
+impress	2	
+impression	1	kev\tadd
+imprison	-2	General\tInquirer\tFeb\t2010
+improp	-2	General\tInquirer\tFeb\t2010
+improve	2	
+improving	2	
+impulsive	-2	General\tInquirer\tFeb\t2010
+impure	-2	General\tInquirer\tFeb\t2010
+impurity	-2	General\tInquirer\tFeb\t2010
+inability	-2	General\tInquirer\tFeb\t2010
+inaccessib	-2	General\tInquirer\tFeb\t2010
+inaccuracy	-2	General\tInquirer\tFeb\t2010
+inadequa	-2	
+inane	-2	General\tInquirer\tFeb\t2010
+incapable	-2	General\tInquirer\tFeb\t2010
+incentive	1	
+incessant	-2	General\tInquirer\tFeb\t2010
+incompatib	-3	General\tInquirer\tFeb\t2010
+incompeten	-3	Feb-11
+inconsisten	-2	General\tInquirer\tFeb\t2010
+inconvenien	-2	General\tInquirer\tFeb\t2010
+incorrect	-2	General\tInquirer\tFeb\t2010
+incredible	1	General\tInquirer\tFeb\t2010
+incurable	-2	General\tInquirer\tFeb\t2010
+indecen	-3	General\tInquirer\tFeb\t2010
+indecis	-2	
+indefinite	-2	General\tInquirer\tFeb\t2010
+indetermin	-2	General\tInquirer\tFeb\t2010
+indictment	-2	General\tInquirer\tFeb\t2010
+indifference	-2	General\tInquirer\tFeb\t2010
+indifferent	-2	General\tInquirer\tFeb\t2010
+indignation	-3	General\tInquirer\tFeb\t2010
+indulge	-2	General\tInquirer\tFeb\t2010
+ineffect	-2	
+inefficiency	-2	General\tInquirer\tFeb\t2010
+inequalit	-2	General\tInquirer\tFeb\t2010
+inexact	-2	General\tInquirer\tFeb\t2010
+inexplicable	-2	General\tInquirer\tFeb\t2010
+infamous	-2	General\tInquirer\tFeb\t2010
+infect	-2	General\tInquirer\tFeb\t2010
+inferior\t	-2	
+infest	-3	General\tInquirer\tFeb\t2010
+infiltrat	-2	General\tInquirer\tFeb\t2010
+inflame	-2	General\tInquirer\tFeb\t2010
+inflation	-2	General\tInquirer\tFeb\t2010
+inflict	-2	General\tInquirer\tFeb\t2010
+infraction	-2	General\tInquirer\tFeb\t2010
+infringement	-2	General\tInquirer\tFeb\t2010
+infuriate	-2	General\tInquirer\tFeb\t2010
+ingratitude	-2	General\tInquirer\tFeb\t2010
+inhib	-2	
+inhuman	-3	General\tInquirer\tFeb\t2010
+injunction	-2	General\tInquirer\tFeb\t2010
+injure	-2	General\tInquirer\tFeb\t2010
+injurious	-2	General\tInquirer\tFeb\t2010
+injury	-2	General\tInquirer\tFeb\t2010
+innocen	2	
+insane	-2	General\tInquirer\tFeb\t2010
+insecur	-2	
+insensible	-2	General\tInquirer\tFeb\t2010
+insidious	-3	General\tInquirer\tFeb\t2010
+insignifican	-2	General\tInquirer\tFeb\t2010
+insincer	-3	
+insinuat	-2	General\tInquirer\tFeb\t2010
+insolence	-2	General\tInquirer\tFeb\t2010
+insolent	-2	General\tInquirer\tFeb\t2010
+inspir	3	
+instability	-2	General\tInquirer\tFeb\t2010
+instable	-2	General\tInquirer\tFeb\t2010
+insufficien	-2	General\tInquirer\tFeb\t2010
+insult	-3	
+intellect	1	kev\tadd
+intelligent	2	kev\tadd/mod
+intelligib	1	kev\tadd
+interest	2	
+interfer	-2	General\tInquirer\tFeb\t2010
+interrup	-2	
+intimidat	-4	
+intolerable	-4	General\tInquirer\tFeb\t2010
+intolleran	-3	Feb-11
+intoxicate	-2	General\tInquirer\tFeb\t2010
+intrud	-2	General\tInquirer\tFeb\t2010
+intrusion	-2	General\tInquirer\tFeb\t2010
+inundate	-2	General\tInquirer\tFeb\t2010
+invade	-2	General\tInquirer\tFeb\t2010
+invalid	-2	General\tInquirer\tFeb\t2010
+invigor	2	
+invisible	-2	General\tInquirer\tFeb\t2010
+involuntary	-2	General\tInquirer\tFeb\t2010
+irk	-2	General\tInquirer\tFeb\t2010
+ironic	-2	General\tInquirer\tFeb\t2010
+irony	-2	General\tInquirer\tFeb\t2010
+irrational	-3	
+irregular	-2	General\tInquirer\tFeb\t2010
+irresponsib	-2	General\tInquirer\tFeb\t2010
+irrita	-3	
+isolat	-2	
+jackass	-2	Feb-11
+jaded	-3	
+jail	-2	Feb-11
+jealous	-3	
+jeer	-3	General\tInquirer\tFeb\t2010
+jeopardise	-2	General\tInquirer\tFeb\t2010
+jeopardize	-2	General\tInquirer\tFeb\t2010
+jeopardy	-2	General\tInquirer\tFeb\t2010
+jerk	-3	
+jerked	-1	
+jerks	-3	
+jittery	-2	General\tInquirer\tFeb\t2010
+jobless	-2	General\tInquirer\tFeb\t2010
+joke	2	
+joking	3	
+joll	3	
+jolliet	1	kev\tadd
+joy	3	
+joyrid	-2	kev\tadd
+joystick	1	kev\tadd
+jumpy	-2	General\tInquirer\tFeb\t2010
+junk	-2	Feb-11
+keen	1	
+kick	-2	General\tInquirer\tFeb\t2010
+kidding	1	
+kidnap	-2	General\tInquirer\tFeb\t2010
+kill	-2	General\tInquirer\tFeb\t2010
+killed	-4	
+killer	-2	
+killing	-2	
+killjoy	-2	kev\tadd
+kind	2	was\t3\t-\t2\taug\t2009\tcould\tbe\t"kind\tof"=neutral
+kindly	2	
+kindn	2	
+kiss	3	
+knife	-2	General\tInquirer\tFeb\t2010
+lack	-2	General\tInquirer\tFeb\t2010
+laidback	2	
+lame	-3	
+lament	-2	General\tInquirer\tFeb\t2010
+languish	-2	General\tInquirer\tFeb\t2010
+lapse	-2	General\tInquirer\tFeb\t2010
+laugh	2	27\tJuly\t2009\tchange\tfrom\t2
+laughable	-2	Feb-11
+laughingstock	-3	kev\tadd
+lawless	-2	General\tInquirer\tFeb\t2010
+lawsuit	-2	Feb-11
+lazie	-2	
+lazily	-2	General\tInquirer\tFeb\t2010
+lazy	-2	
+leak	-2	General\tInquirer\tFeb\t2010
+leakage	-2	General\tInquirer\tFeb\t2010
+leaking	-2	General\tInquirer\tFeb\t2010
+liabilit	-3	
+liable	-2	General\tInquirer\tFeb\t2010
+liar	-3	removed	libert	2
+libel	-3	Feb-11
+lied	-3	
+lies	-3	2
+lifeless	-2	General\tInquirer\tFeb\t2010
+like	2	Note\t-\tcould\tbe\tcomparator\t-\tA\tis\tlike\tB\tbut\tgives\tbetter\tresults\twith\t2\tthan\t1\tAug\t2,\t2009
+likeab	3	
+liked	3	
+likes	3	
+liking	3	
+limitation	-2	General\tInquirer\tFeb\t2010
+limp	-2	General\tInquirer\tFeb\t2010
+liquidate	-2	General\tInquirer\tFeb\t2010
+liquidation	-2	General\tInquirer\tFeb\t2010
+litig	-2	Feb-11
+litter	-2	General\tInquirer\tFeb\t2010
+livel	2	
+livelihood	1	kev\tadd
+lmao	3	
+lol	2	27\tJuly\t2009\t(from\t3)
+lolol	2	27-Jul-09
+lone	-2	
+longing	-3	
+lose	-2	
+loser	-3	
+loses	-2	
+losing	-3	
+loss	-3	
+lost	-1	
+lous	-3	
+love	3	(2\tAug\t2009)\tfairly\tmild\tin\tmyspace,\toften\tused\tformally,\twhen\tshould\tbe\t2
+loved	4	
+loveless	-3	General\tInquirer\tFeb\t2010
+loveli	3	kev\tadd
+lovely	2	27-Jul-09
+lovemak	4	kev\tadd
+lover	4	
+loves	3	
+lovin	3	slang
+loving	4	kev\tadd
+low	-2	
+lower	1	kev\tadd
+loyal	2	
+luck	3	wasn't\tChanged\t2\tAug\t2009\t-although\toften\tused\tas\tneutral\tor\tnegative
+lucked	3	
+lucki	3	
+luckless	-3	
+lucks	3	
+lucky	2	3->2\tChanged\t2\tAug\t2009\t-as\toften\tused\tas\tneutral\tor\tnegative
+ludicrous	-3	
+lull	-2	General\tInquirer\tFeb\t2010
+lunatic	-2	General\tInquirer\tFeb\t2010
+lunkhead	-2	Feb-11
+lure	-2	General\tInquirer\tFeb\t2010
+lurk	-1	General\tInquirer\tFeb\t2010
+luv	3	love
+lying	-4	
+mad	-2	29\tJuly\t2009\t-\tchanged\tfrom\t-3
+madden	-3	kev\tmod
+madder	-3	
+maddest	-3	
+madly	2	
+madman	-2	General\tInquirer\tFeb\t2010
+madmen	-2	General\tInquirer\tFeb\t2010
+madness	-2	General\tInquirer\tFeb\t2010
+magnific	4	
+magnification	1	Tuomo\tAug\t3\t2011
+maladjusted	-2	General\tInquirer\tFeb\t2010
+maladjustment	-2	General\tInquirer\tFeb\t2010
+malady	-2	General\tInquirer\tFeb\t2010
+malice	-4	General\tInquirer\tFeb\t2010
+malicious	-4	General\tInquirer\tFeb\t2010
+malign	-3	Feb-11
+malignan	-4	Feb-11
+mangle	-2	General\tInquirer\tFeb\t2010
+maniac	-3	
+manipulat	-2	General\tInquirer\tFeb\t2010
+manslaughter	-4	General\tInquirer\tFeb\t2010
+mar	-2	General\tInquirer\tFeb\t2010
+marginal	-2	General\tInquirer\tFeb\t2010
+martyr	-2	Feb-11
+masochis	-3	
+massacre	-2	General\tInquirer\tFeb\t2010
+mate	2	
+meager	-2	General\tInquirer\tFeb\t2010
+meanie	-2	Feb-11
+meaningless	-2	General\tInquirer\tFeb\t2010
+meddle	-2	General\tInquirer\tFeb\t2010
+mediocr	-2	General\tInquirer\tFeb\t2010
+meek	-2	General\tInquirer\tFeb\t2010
+melanchol	-4	
+melodramatic	-2	General\tInquirer\tFeb\t2010
+menace	-3	General\tInquirer\tFeb\t2010
+menial	-2	General\tInquirer\tFeb\t2010
+merciless	-2	General\tInquirer\tFeb\t2010
+merit	2	
+merr	2	
+mess	-1	
+messy	-1	
+miraculous	3	Hannes\tGI\tadd
+misbehave	-2	General\tInquirer\tFeb\t2010
+misbehavior	-2	General\tInquirer\tFeb\t2010
+mischief	-2	General\tInquirer\tFeb\t2010
+mischievous	-2	General\tInquirer\tFeb\t2010
+miser	-3	
+misfortune	-2	General\tInquirer\tFeb\t2010
+mishandle	-2	General\tInquirer\tFeb\t2010
+mishap	-2	General\tInquirer\tFeb\t2010
+misinform	-2	General\tInquirer\tFeb\t2010
+mislead	-2	General\tInquirer\tFeb\t2010
+misrepresent	-2	General\tInquirer\tFeb\t2010
+miss	-2	General\tInquirer\tFeb\t2010
+missed	-2	
+misses	-3	
+mistak	-2	
+mistrust	-2	General\tInquirer\tFeb\t2010
+misunderst	-2	General\tInquirer\tFeb\t2010
+misuse	-2	General\tInquirer\tFeb\t2010
+moan	-2	General\tInquirer\tFeb\t2010
+mock	-3	
+mocked	-3	
+mocker	-3	
+mocking	-3	
+mockingbird	1	kev\tadd
+mocks	-3	
+mogoloid	-2	Feb-11
+molest	-4	
+momentous	3	Hannes\tGI\tadd
+mong	-2	Feb-11
+monotonous	-2	General\tInquirer\tFeb\t2010
+monotony	-2	General\tInquirer\tFeb\t2010
+monster	-2	General\tInquirer\tFeb\t2010
+monstrous	-3	General\tInquirer\tFeb\t2010
+mooch	-2	
+moodi	-3	
+moody	-3	
+moron	-3	
+mortif	-3	General\tInquirer\tFeb\t2010
+motherfucker	-4	Feb-11
+motionless	-2	General\tInquirer\tFeb\t2010
+motley	-2	General\tInquirer\tFeb\t2010
+mourn	-3	
+muah	3	auto\tcheck\t4\taug\t2009
+muddle	-2	General\tInquirer\tFeb\t2010
+muddy	-2	General\tInquirer\tFeb\t2010
+mumble	-2	General\tInquirer\tFeb\t2010
+mundane	-2	General\tInquirer\tFeb\t2010
+murder	-4	
+murky	-2	General\tInquirer\tFeb\t2010
+muthafuck	-4	Feb-11
+mutter	-2	General\tInquirer\tFeb\t2010
+nag	-2	
+naga	1	kev\tadd
+naive	-2	General\tInquirer\tFeb\t2010
+nast	-3	
+nasturtium	1	kev\tadd
+naughty	-2	General\tInquirer\tFeb\t2010
+nazi	-2	Feb-11
+neat	1	
+nebulous	-2	General\tInquirer\tFeb\t2010
+needy	-2	
+negativ	-2	General\tInquirer\tFeb\t2010
+neglect	-1	
+negligen	-3	General\tInquirer\tFeb\t2010
+nerd	-3	
+nervous	-3	
+neurotic	-3	
+neutralize	-2	General\tInquirer\tFeb\t2010
+nice	2	
+nightmare	-3	General\tInquirer\tFeb\t2010
+nimble	2	Hannes\tGI\tadd
+nincompoop	-2	Feb-11
+ninny	-2	Feb-11
+nix	-2	General\tInquirer\tFeb\t2010
+noise	-1	General\tInquirer\tFeb\t2010
+nonchalant	-1	General\tInquirer\tFeb\t2010
+nonsens	-2	Feb-11
+nosey	-2	General\tInquirer\tFeb\t2010
+notorious	-2	General\tInquirer\tFeb\t2010
+novice	-2	General\tInquirer\tFeb\t2010
+noxious	-3	kev\tadd
+nucklehead	-2	Feb-11
+nuisance	-2	General\tInquirer\tFeb\t2010
+nullification	-2	General\tInquirer\tFeb\t2010
+nullify	-2	General\tInquirer\tFeb\t2010
+numb	-2	
+number	1	kev\tadd
+numpty	-2	Feb-11
+nurtur	1	
+nutcase	-2	Feb-11
+nutter	-2	new
+oaf	-2	Feb-11
+obes	-2	Feb-11
+objection	-2	General\tInquirer\tFeb\t2010
+oblique	-2	General\tInquirer\tFeb\t2010
+obliterate	-2	General\tInquirer\tFeb\t2010
+obnoxious	-3	
+obscure	-1	General\tInquirer\tFeb\t2010
+obsess	-3	
+obsolete	-2	General\tInquirer\tFeb\t2010
+obstacle	-2	General\tInquirer\tFeb\t2010
+obstinate	-2	General\tInquirer\tFeb\t2010
+obstruct	-2	General\tInquirer\tFeb\t2010
+obstruction	-2	General\tInquirer\tFeb\t2010
+odd	-1	General\tInquirer\tFeb\t2010
+oddity	-2	General\tInquirer\tFeb\t2010
+offence	-2	
+offend	-3	
+offender	-2	kev\tadd
+offens	-3	
+ok	1	
+okay	1	
+okays	1	
+oks	1	
+omfg	2	
+omg	2	
+ominous	-3	General\tInquirer\tFeb\t2010
+omissions	-2	General\tInquirer\tFeb\t2010
+omit	-2	General\tInquirer\tFeb\t2010
+openminded	1	
+openness	1	
+opinionated	-2	General\tInquirer\tFeb\t2010
+opponent	-2	General\tInquirer\tFeb\t2010
+opportun	1	
+oppose	-2	General\tInquirer\tFeb\t2010
+opposition	-2	General\tInquirer\tFeb\t2010
+oppress	-3	General\tInquirer\tFeb\t2010
+optimal	1	
+optimi	1	
+optimism	2	Hannes\tGI\tadd
+optimistic	2	kev\tadd
+ordeal	-3	General\tInquirer\tFeb\t2010\tkev\tmod
+original	1	
+orphan	-2	General\tInquirer\tFeb\t2010
+ostracize	-2	General\tInquirer\tFeb\t2010
+oust	-2	General\tInquirer\tFeb\t2010
+outbreak	-2	General\tInquirer\tFeb\t2010
+outburst	-2	General\tInquirer\tFeb\t2010
+outcast	-2	General\tInquirer\tFeb\t2010
+outcry	-3	General\tInquirer\tFeb\t2010
+outgoing	1	
+outlaw	-2	General\tInquirer\tFeb\t2010
+outrag	-3	
+outsider	-2	General\tInquirer\tFeb\t2010
+outstanding	3	Hannes\tGI\tadd
+overbearing	-2	General\tInquirer\tFeb\t2010
+overflow	-2	General\tInquirer\tFeb\t2010
+overjoyed	5	Hannes\tGI\tadd
+overlook	-2	General\tInquirer\tFeb\t2010
+overpower	-2	General\tInquirer\tFeb\t2010
+overrun	-2	General\tInquirer\tFeb\t2010
+oversight	-2	General\tInquirer\tFeb\t2010
+overthrow	-2	General\tInquirer\tFeb\t2010
+overturn	-2	General\tInquirer\tFeb\t2010
+overweight	-2	Feb-11
+overwhelm	-3	
+overwork	-2	General\tInquirer\tFeb\t2010
+owe	-2	General\tInquirer\tFeb\t2010
+pain	-4	
+pained	-2	
+painf	-4	
+paining	-4	
+painl	2	
+pains	-4	
+palatabl	2	
+paltry	-2	General\tInquirer\tFeb\t2010
+pambering	3	kev\tadd
+pamper	2	Hannes\tGI\tadd
+pampered	3	kev\tadd
+pampers	1	kev\tadd
+pandemonium	-2	General\tInquirer\tFeb\t2010
+panic	-3	
+paradise	4	
+paralysis	-2	General\tInquirer\tFeb\t2010
+paralyzed	-2	General\tInquirer\tFeb\t2010
+paranoi	-3	
+parasit	-3	General\tInquirer\tFeb\t2010
+partie	1	
+partition	-2	General\tInquirer\tFeb\t2010
+party	1	
+passe	-2	General\tInquirer\tFeb\t2010
+passion	3	
+pathetic	-3	
+peace	1	
+peculiar	-1	
+perfect	2	
+perfectionis	1	kev\tadd
+peril	-2	General\tInquirer\tFeb\t2010
+perish	-2	General\tInquirer\tFeb\t2010
+perplex	-2	General\tInquirer\tFeb\t2010
+persecut	-3	General\tInquirer\tFeb\t2010
+perturb	-2	General\tInquirer\tFeb\t2010
+perver	-2	
+pessimis	-3	
+pest	-2	General\tInquirer\tFeb\t2010
+petrif	-4	
+pettie	-1	
+petty	-1	
+phobi	-3	
+picturesque	2	Hannes\tGI\tadd
+piffle	-2	Feb-11
+pillock	-2	Feb-11
+pinch	-2	General\tInquirer\tFeb\t2010
+pinhead	-2	Feb-11
+piss	-3	
+pissup	1	kev\tadd
+piti	-3	
+pity\t	-2	
+plague	-2	General\tInquirer\tFeb\t2010
+plaintiff	-2	General\tInquirer\tFeb\t2010
+play	1	
+played	1	
+playful	2	
+playing	2	
+plays	2	
+pleasant	3	
+please	2	
+pleasing	3	
+pleasur	3	
+plight	-2	General\tInquirer\tFeb\t2010
+plod	-2	General\tInquirer\tFeb\t2010
+plonker	-2	Feb-11
+pointless	-2	Feb-11
+poison	-3	
+pollut	-2	General\tInquirer\tFeb\t2010
+pompous	-2	General\tInquirer\tFeb\t2010
+poor	-2	
+poppycock	-2	Feb-11
+popularis	1	kev\tadd
+popularity	2	kev\tmod
+populariz	1	kev\tadd
+positiv	3	
+positivi	1	kev\tadd
+pout	-2	General\tInquirer\tFeb\t2010
+poverty	-2	General\tInquirer\tFeb\t2010
+powerless	-2	General\tInquirer\tFeb\t2010
+prais	3	
+prannock	-2	Feb-11
+prat	-2	Feb-11
+precarious	-2	General\tInquirer\tFeb\t2010
+precious	3	
+precipitate	-2	General\tInquirer\tFeb\t2010
+predicament	-2	General\tInquirer\tFeb\t2010
+prejudic	-3	
+preposterous	-2	General\tInquirer\tFeb\t2010
+pressur	-2	
+presumptuous	-3	General\tInquirer\tFeb\t2010
+pretend	-2	General\tInquirer\tFeb\t2010
+pretense	-2	General\tInquirer\tFeb\t2010
+pretentious	-2	General\tInquirer\tFeb\t2010
+prettie	3	
+prettily	2	Hannes\tGI\tadd
+pretty	3	
+priceless	4	Hannes\tGI\tadd
+prick	-3	
+prickle	1	kev\tmod
+pride	2	
+prison	-2	Feb-11
+privileg	2	
+prize	3	
+problem	-2	
+procrastinat	-2	General\tInquirer\tFeb\t2010
+prod	-2	General\tInquirer\tFeb\t2010
+profit	2	kev\tmod
+profiteer	-2	kev\tmod
+profitless	-2	kev\tmod
+prohibit	-2	General\tInquirer\tFeb\t2010
+promis	2	
+promiscu	-2	kev\tmod
+promissory	1	kev\tadd
+propaganda	-2	General\tInquirer\tFeb\t2010
+prosecut	-2	General\tInquirer\tFeb\t2010
+prosperity	2	Hannes\tGI\tadd
+prosperous	2	Hannes\tGI\tadd
+protest	-2	
+proud	2	
+proudhon	1	kev\tadd
+provocation	-2	General\tInquirer\tFeb\t2010
+provoke	-2	General\tInquirer\tFeb\t2010
+prowl	-2	General\tInquirer\tFeb\t2010
+pry	-2	General\tInquirer\tFeb\t2010
+puk	-3	
+puka	3	kev\tadd
+pukka	3	kev\tadd
+punch	-2	General\tInquirer\tFeb\t2010
+punish	-2	
+puny	-2	General\tInquirer\tFeb\t2010
+puzzlement	-2	General\tInquirer\tFeb\t2010
+qualm	-2	General\tInquirer\tFeb\t2010
+quandary	-2	General\tInquirer\tFeb\t2010
+quarrel	-3	General\tInquirer\tFeb\t2010
+queer	-2	Feb-11
+questionable	-2	General\tInquirer\tFeb\t2010
+quibble	-2	General\tInquirer\tFeb\t2010
+quit	-2	General\tInquirer\tFeb\t2010
+quitter	-2	General\tInquirer\tFeb\t2010
+racis	-2	Feb-11
+radian	1	Tuomo\tAug\t3,\t2011
+radian	3	
+radians	1	Tuomo\tAug\t3,\t2011
+radical	-2	General\tInquirer\tFeb\t2010
+rage	-4	
+raging	-4	
+raid	-2	General\tInquirer\tFeb\t2010
+ramble	-2	General\tInquirer\tFeb\t2010
+rampant	-2	General\tInquirer\tFeb\t2010
+rancid	-3	
+rape	-4	
+rapeseed	1	kev\tadd
+raping	-4	
+rapist	-4	
+rapt	4	Hannes\tGI\tadd
+rascal	-2	General\tInquirer\tFeb\t2010
+rash	-2	General\tInquirer\tFeb\t2010
+rat	-2	
+ration	-2	General\tInquirer\tFeb\t2010
+ravag	-2	General\tInquirer\tFeb\t2010
+reactionar	-2	General\tInquirer\tFeb\t2010
+reactive	-2	General\tInquirer\tFeb\t2010
+readiness	1	
+ready	1	
+reassur	2	
+rebel	-2	
+rebuff	-2	General\tInquirer\tFeb\t2010
+rebuke	-2	General\tInquirer\tFeb\t2010
+rebut	-2	Feb-11
+recalcitrant	-2	General\tInquirer\tFeb\t2010
+recede	-2	General\tInquirer\tFeb\t2010
+recession	-2	General\tInquirer\tFeb\t2010
+reckless	-2	General\tInquirer\tFeb\t2010
+recoil	-2	General\tInquirer\tFeb\t2010
+redundan	-2	General\tInquirer\tFeb\t2010
+reek	-3	
+refrain	-2	General\tInquirer\tFeb\t2010
+refugee	-2	General\tInquirer\tFeb\t2010
+refusal	-2	General\tInquirer\tFeb\t2010
+refuse	-2	General\tInquirer\tFeb\t2010
+regardless	-2	General\tInquirer\tFeb\t2010
+regress	-2	General\tInquirer\tFeb\t2010
+regret	-2	
+reject	-2	
+rejoice	4	Hannes\tGI\tadd
+relapse	-2	General\tInquirer\tFeb\t2010
+relax	3	
+relief	2	
+reliev	2	
+reluctan	-2	
+remorse	-3	
+renounce	-2	General\tInquirer\tFeb\t2010
+renunciation	-2	General\tInquirer\tFeb\t2010
+repeal	-2	General\tInquirer\tFeb\t2010
+reprehensib	-4	General\tInquirer\tFeb\t2010
+repress	-2	
+reproach	-2	General\tInquirer\tFeb\t2010
+repudiate	-2	General\tInquirer\tFeb\t2010
+repugnan	-3	General\tInquirer\tFeb\t2010
+repulse	-2	General\tInquirer\tFeb\t2010
+repulsive	-4	General\tInquirer\tFeb\t2010
+resent	-3	
+resign	-2	
+resignation	-2	General\tInquirer\tFeb\t2010
+resolv	2	
+resourcefulness	2	Hannes\tGI\tadd
+respect	3	
+restless	-2	
+restrict	-2	General\tInquirer\tFeb\t2010
+retaliat	-2	General\tInquirer\tFeb\t2010
+retard	-2	Feb-11
+retch	-3	Feb-11
+retire	-2	General\tInquirer\tFeb\t2010
+retreat	-2	General\tInquirer\tFeb\t2010
+revenge	-2	
+revere	2	Hannes\tGI\tadd
+revert	-2	General\tInquirer\tFeb\t2010
+revigor	2	
+revitalize	2	Hannes\tGI\tadd
+revoke	-2	General\tInquirer\tFeb\t2010
+revolt	-2	General\tInquirer\tFeb\t2010
+revolution	-2	General\tInquirer\tFeb\t2010
+reward	2	
+rich	1	
+richard	1	kev\tadd
+richmond	1	kev\tadd
+richness	2	Hannes\tGI\tadd
+rid	-2	General\tInquirer\tFeb\t2010
+ridicul	-3	
+rigid	-2	
+rigor	1	General\tInquirer\tFeb\t2010
+rigorous	1	General\tInquirer\tFeb\t2010
+rip	-2	General\tInquirer\tFeb\t2010
+risk	-2	
+risky	-2	General\tInquirer\tFeb\t2010
+rival	-2	General\tInquirer\tFeb\t2010
+rivalry	-2	General\tInquirer\tFeb\t2010
+robber	-2	General\tInquirer\tFeb\t2010
+rock	2	As\tin\tYou\trock!\tbut\tnot\tas\tin\trock,\tstone,\tcan\talso\tbe\trock\tmusic,\tlisten\tto\trock
+rofl	3	
+rogue	-2	General\tInquirer\tFeb\t2010
+romanc	4	
+romantic	4	
+rot	-2	General\tInquirer\tFeb\t2010
+rotten	-3	kev\tmod
+rough	-2	General\tInquirer\tFeb\t2010
+roundabout	-2	General\tInquirer\tFeb\t2010
+rubbish	-3	Feb-11
+rude	-3	
+rue	-2	General\tInquirer\tFeb\t2010
+ruffian	-2	General\tInquirer\tFeb\t2010
+ruin	-2	
+ruins	1	kev\tadd
+rumor	-2	General\tInquirer\tFeb\t2010
+rumple	-2	General\tInquirer\tFeb\t2010
+runaway	-2	General\tInquirer\tFeb\t2010
+rupture	-2	General\tInquirer\tFeb\t2010
+rusty	-2	General\tInquirer\tFeb\t2010
+ruthless	-3	General\tInquirer\tFeb\t2010
+sabotage	-2	General\tInquirer\tFeb\t2010
+sad	-4	
+sadde	-4	
+sadly	-2	27\tJuly\t2009\t-\tcasual\tuse=\tsadly,\tI\thave\tlost\tit.
+sadness	-4	
+safe	2	
+sag	-2	General\tInquirer\tFeb\t2010
+sank	-2	General\tInquirer\tFeb\t2010
+sap	-2	General\tInquirer\tFeb\t2010
+sarcas	-3	
+satan	-3	
+satisf	2	
+savage	-3	
+save	2	
+scald	-2	General\tInquirer\tFeb\t2010
+scandal	-3	General\tInquirer\tFeb\t2010
+scapegoat	-3	General\tInquirer\tFeb\t2010
+scar	-2	General\tInquirer\tFeb\t2010
+scarcity	-2	General\tInquirer\tFeb\t2010
+scare	-4	
+scarecrow	1	kev\tadd
+scaremonger	-3	kev\tadd
+scariest	-4	
+scaring	-4	
+scary	-4	
+sceptic	-2	
+scoff	-2	General\tInquirer\tFeb\t2010
+scold	-2	General\tInquirer\tFeb\t2010
+scorch	-2	General\tInquirer\tFeb\t2010
+scorn	-2	General\tInquirer\tFeb\t2010
+scoundrel	-2	General\tInquirer\tFeb\t2010
+scowl	-2	General\tInquirer\tFeb\t2010
+scrape	-2	General\tInquirer\tFeb\t2010
+scream	-4	
+screech	-2	General\tInquirer\tFeb\t2010
+screw	1	kev\tmod
+scrumptious	4	
+scrutinize	-2	General\tInquirer\tFeb\t2010
+scuffle	-2	General\tInquirer\tFeb\t2010
+scum	-3	new
+scummy	-2	new
+secede	-2	General\tInquirer\tFeb\t2010
+secession	-2	General\tInquirer\tFeb\t2010
+secrecy	-1	General\tInquirer\tFeb\t2010
+secret	-1	General\tInquirer\tFeb\t2010
+secur	2	
+sedentary	-2	General\tInquirer\tFeb\t2010
+seeth	-2	General\tInquirer\tFeb\t2010\tkev\tmod\t
+segregation	-2	General\tInquirer\tFeb\t2010
+seize	-2	General\tInquirer\tFeb\t2010
+selfish	-4	
+senil	-2	General\tInquirer\tFeb\t2010
+senseless	-2	General\tInquirer\tFeb\t2010
+sentimental	3	
+sequester	-2	General\tInquirer\tFeb\t2010
+serious	-2	
+seriously	-1	auto\tcheck\t4\taug\t2009
+seriousness	-2	
+servitude	-2	General\tInquirer\tFeb\t2010
+sever	-2	General\tInquirer\tFeb\t2010
+severe	-2	
+severity	-2	General\tInquirer\tFeb\t2010
+sexist	-3	Feb-11
+sexy	3	27\tJuly\t2009\tauto\tcheck\t4\taug\t2009
+shabby	-2	General\tInquirer\tFeb\t2010
+shady	-2	General\tInquirer\tFeb\t2010
+shaggy	-2	General\tInquirer\tFeb\t2010
+shake	-2	
+shakespear	1	kev\tadd
+shaki	-2	
+shaky	-2	
+shallow	-2	General\tInquirer\tFeb\t2010
+shame	-3	
+share	1	
+shared	1	
+shares	1	
+sharing	1	
+shark	-2	General\tInquirer\tFeb\t2010
+shipwreck	-2	General\tInquirer\tFeb\t2010
+shirk	-2	General\tInquirer\tFeb\t2010
+shit	-2	auto\tcheck\t4\taug\t2009
+shiver	-2	General\tInquirer\tFeb\t2010
+shock	-3	
+shoddy	-2	General\tInquirer\tFeb\t2010
+shook	-2	
+shoot	-2	General\tInquirer\tFeb\t2010
+shortage	-2	General\tInquirer\tFeb\t2010
+shortcoming	-2	General\tInquirer\tFeb\t2010
+shortsighted	-2	General\tInquirer\tFeb\t2010
+shot	-2	General\tInquirer\tFeb\t2010
+shove	-2	General\tInquirer\tFeb\t2010
+shred	-2	General\tInquirer\tFeb\t2010
+shrew	-2	General\tInquirer\tFeb\t2010
+shriek	-2	General\tInquirer\tFeb\t2010
+shrill	-2	General\tInquirer\tFeb\t2010
+shrivel	-2	General\tInquirer\tFeb\t2010
+shroud	-2	General\tInquirer\tFeb\t2010
+shun	-2	General\tInquirer\tFeb\t2010
+shy	-3	
+sick	-2	General\tInquirer\tFeb\t2010
+sicken	-4	
+sickly	-2	General\tInquirer\tFeb\t2010
+sickness	-2	General\tInquirer\tFeb\t2010
+siege	-2	General\tInquirer\tFeb\t2010
+silli	2	
+silly	-2	-2	Feb-11	
+simpleton	-2	Feb-11
+simplistic	-2	General\tInquirer\tFeb\t2010
+sin	-2	
+sincer	1	
+sinful	-2	General\tInquirer\tFeb\t2010
+sinister	-4	
+sins	-3	
+skank	-2	Feb\t2011\t-\turbandictionary.com\tsurfing
+skeptic	-2	
+sketchy	-2	General\tInquirer\tFeb\t2010
+skillful	2	Hannes\tGI\tadd
+skirmish	-2	General\tInquirer\tFeb\t2010
+skulk	-2	General\tInquirer\tFeb\t2010
+slam	-2	General\tInquirer\tFeb\t2010
+slander	-2	Feb-11
+slap	-2	General\tInquirer\tFeb\t2010
+slash	-2	General\tInquirer\tFeb\t2010
+slaughter	-2	General\tInquirer\tFeb\t2010
+slayer	-2	General\tInquirer\tFeb\t2010
+sleaz	-3	General\tInquirer\tFeb\t2010
+sleepless	-2	General\tInquirer\tFeb\t2010
+slight	1	General\tInquirer\tFeb\t2010
+slime	-2	General\tInquirer\tFeb\t2010
+sloppy	-2	General\tInquirer\tFeb\t2010
+sloth	-2	General\tInquirer\tFeb\t2010
+slothful	-3	General\tInquirer\tFeb\t2010
+slug	-2	General\tInquirer\tFeb\t2010
+sluggish	-2	General\tInquirer\tFeb\t2010
+slump	-2	Feb-11
+slur	-2	Feb-11
+slut	-3	
+sly	-2	General\tInquirer\tFeb\t2010
+smack	-2	General\tInquirer\tFeb\t2010
+smart	2	
+smash	-2	General\tInquirer\tFeb\t2010
+smear	-2	General\tInquirer\tFeb\t2010
+smil	3	
+smother	-2	
+smug	-2	
+smuggle	-2	General\tInquirer\tFeb\t2010
+snare	-2	General\tInquirer\tFeb\t2010
+snarl	-4	General\tInquirer\tFeb\t2010
+snatch	-2	General\tInquirer\tFeb\t2010
+sneak	-2	new
+sneer	-2	General\tInquirer\tFeb\t2010
+snob	-3	
+snore	-2	General\tInquirer\tFeb\t2010
+sob	-4	
+sobbed	-4	
+sobbing	-4	
+sobs	-4	
+sociab	2	
+solemn	-3	
+somber	-2	General\tInquirer\tFeb\t2010
+sore	-2	General\tInquirer\tFeb\t2010
+soreness	-2	General\tInquirer\tFeb\t2010
+sorrow	-3	
+sorry	-2	29\tJuly\t2009:\tChanged\tfrom\t-3
+soulmate	4	
+sour	-2	General\tInquirer\tFeb\t2010
+spam	-2	
+spank	-2	General\tInquirer\tFeb\t2010
+spastic	-2	Feb-11
+spaz	-2	Feb-11
+spear	-2	General\tInquirer\tFeb\t2010
+special	2	
+spew	-2	Feb-11
+spill	-2	General\tInquirer\tFeb\t2010
+spinster	-2	General\tInquirer\tFeb\t2010
+spite	-4	
+splend	3	
+spoil	-2	General\tInquirer\tFeb\t2010
+spotless	2	Hannes\tGI\tadd
+sprain	-2	General\tInquirer\tFeb\t2010
+sprightly	2	Hannes\tGI\tadd
+sputter	-2	General\tInquirer\tFeb\t2010
+squander	-2	General\tInquirer\tFeb\t2010
+squirm	-3	29\tJune\t2010:\tadded
+stab	-2	General\tInquirer\tFeb\t2010
+stagnant	-2	General\tInquirer\tFeb\t2010
+stain	-2	General\tInquirer\tFeb\t2010
+stale	-2	General\tInquirer\tFeb\t2010
+stalemate	-2	General\tInquirer\tFeb\t2010
+stalled	-2	Feb-10
+stalling	-2	Feb-10
+stammer	-2	
+standstill	-2	General\tInquirer\tFeb\t2010
+stank	-3	
+stark	-2	General\tInquirer\tFeb\t2010
+startl	-2	
+starvation	-2	General\tInquirer\tFeb\t2010
+starve	-2	General\tInquirer\tFeb\t2010
+starving	-3	General\tInquirer\tFeb\t2010
+static	-2	General\tInquirer\tFeb\t2010
+steal	-3	
+stealth	1	kev\tadd
+stench	-3	
+stern	-2	General\tInquirer\tFeb\t2010
+sternly	-2	General\tInquirer\tFeb\t2010
+stifle	-2	General\tInquirer\tFeb\t2010
+stigma	-2	General\tInquirer\tFeb\t2010
+sting	-2	General\tInquirer\tFeb\t2010
+stink	-3	
+stinkbird	1	kev\tadd
+stinkhorn	1	kev\tadd
+stinkweed	1	kev\tadd
+stole	-2	General\tInquirer\tFeb\t2010
+stolen	-2	General\tInquirer\tFeb\t2010
+storm	-2	General\tInquirer\tFeb\t2010
+stormy	-2	General\tInquirer\tFeb\t2010
+straggle	-2	General\tInquirer\tFeb\t2010
+straggler	-2	General\tInquirer\tFeb\t2010
+strain	-2	
+strange	-1	
+strangle	-3	General\tInquirer\tFeb\t2010
+stray	-2	General\tInquirer\tFeb\t2010
+strength	1	
+stress	-2	
+stricken	-2	General\tInquirer\tFeb\t2010
+strict	-2	General\tInquirer\tFeb\t2010
+strife	-2	General\tInquirer\tFeb\t2010
+strike	-2	General\tInquirer\tFeb\t2010
+stringen	-2	General\tInquirer\tFeb\t2010
+strong	1	
+struck	-2	General\tInquirer\tFeb\t2010
+struggl	-2	
+stubborn	-3	
+stuffy	-2	General\tInquirer\tFeb\t2010
+stunk	-3	
+stunned	-2	
+stuns	-2	
+stunt	-2	General\tInquirer\tFeb\t2010
+stupid	-2	
+stupor	-2	General\tInquirer\tFeb\t2010
+stutter	-2	
+subjection	-2	General\tInquirer\tFeb\t2010
+subjugat	-2	General\tInquirer\tFeb\t2010
+submissive	-2	
+subservien	-2	General\tInquirer\tFeb\t2010
+subside	-2	General\tInquirer\tFeb\t2010
+substitution	1	General\tInquirer\tFeb\t2010
+subtract	-2	General\tInquirer\tFeb\t2010
+subversion	-2	General\tInquirer\tFeb\t2010
+subvert	-2	General\tInquirer\tFeb\t2010
+succeed	3	
+success	3	
+successiv	1	kev\tadd
+successor	1	kev\tadd
+succumb	-2	General\tInquirer\tFeb\t2010
+suck	-2	
+sucked	-2	
+sucker	-2	
+suckerfish	1	kev\tadd
+sucks	-2	
+sucky	-2	
+suffer	-4	
+suffered	-4	
+sufferer	-4	
+suffering	-4	
+suffers	-4	
+suffocate	-3	General\tInquirer\tFeb\t2010
+suicide	-4	
+suk	-2	
+sullen	-2	General\tInquirer\tFeb\t2010
+sunder	-2	General\tInquirer\tFeb\t2010
+sunnier	2	
+sunniest	2	
+sunny	2	
+sunshin	2	
+sup	2	27\tJuly\t2009\t(slang=\twhat's\tup)\tassumes\tsup\tas\tin\teat/drink\tisn't\tused)\t
+super	3	
+superficial	-2	General\tInquirer\tFeb\t2010
+superfluous	-2	General\tInquirer\tFeb\t2010
+superior	3	
+superiority	1	kev\tadd
+superiors	1	kev\tadd
+superlative	4	Hannes\tGI\tadd
+superstit	-2	General\tInquirer\tFeb\t2010
+support	2	
+supported	2	
+supporter	2	
+supporting	2	
+supportive	2	
+supports	2	
+suppress	-2	General\tInquirer\tFeb\t2010
+suprem	3	
+supremacis	-2	kev\tadd
+supremo	1	kev\tadd
+sure	1	
+suret	1	kev\tadd
+surpris	1	
+susceptib	-2	General\tInquirer\tFeb\t2010
+suspect	-2	General\tInquirer\tFeb\t2010
+suspend	-2	General\tInquirer\tFeb\t2010
+suspension	-2	General\tInquirer\tFeb\t2010
+suspicio	-2	
+swear	-2	General\tInquirer\tFeb\t2010
+sweet	2	
+sweetheart	4	
+sweetie	3	
+sweetly	2	
+sweetness	3	
+sweets	2	
+swore	-2	General\tInquirer\tFeb\t2010
+symptom	-2	General\tInquirer\tFeb\t2010
+taboo	-2	General\tInquirer\tFeb\t2010
+taint	-2	General\tInquirer\tFeb\t2010
+talent	2	
+talentless	-3	kev\tadd
+tamper	-2	General\tInquirer\tFeb\t2010
+tantrum	-3	
+tard	-2	Feb-11
+tardy	-2	General\tInquirer\tFeb\t2010
+tariff	-2	General\tInquirer\tFeb\t2010
+tatter	-2	General\tInquirer\tFeb\t2010
+taunt	-2	General\tInquirer\tFeb\t2010
+tax	-2	General\tInquirer\tFeb\t2010
+tear	-2	General\tInquirer\tFeb\t2010
+tears	-4	
+tease	-2	kev\tmod
+tedious	-3	General\tInquirer\tFeb\t2010\tkev\tmod
+tehe	3	
+temper	-3	
+tempers	-1	
+tempest	-2	General\tInquirer\tFeb\t2010
+temporarily	-2	General\tInquirer\tFeb\t2010
+temptation	-2	General\tInquirer\tFeb\t2010
+tender	3	
+tenderf	1	kev\tmod
+tendergreen	1	kev\tmod
+tenderiZ	1	kev\tmod
+tendering	1	kev\tmod
+tenderis	1	kev\tmod
+tenderloin	1	kev\tmod
+tense	-3	
+tensing	-3	
+tension	-3	
+terribl	-4	
+terrific	4	
+terrified	-4	
+terrifies	-4	
+terrify	-4	
+terrifyi	-4	
+terror	-2	General\tInquirer\tFeb\t2010
+terror	-3	
+terrori	-3	General\tInquirer\tFeb\t2010
+thank	2	27-Jul-09
+thanked	1	
+thankf	2	
+thanks	2	27-Jul-09
+thanx	2	27-Jul-09
+theft	-2	General\tInquirer\tFeb\t2010
+thief	-2	
+thieve	-2	
+thirst	-2	General\tInquirer\tFeb\t2010
+thirsty	-2	new,\tthirsty
+thnx	2	27-Jul-09
+thorny	-2	General\tInquirer\tFeb\t2010
+thoughtful	2	
+thoughtless	-2	General\tInquirer\tFeb\t2010
+thrash	-2	General\tInquirer\tFeb\t2010
+threat	-3	
+thrill	4	
+thriller	2	kev\tmod
+thud	-2	General\tInquirer\tFeb\t2010
+thwart	-2	General\tInquirer\tFeb\t2010
+ticked	-1	
+timid	-2	
+tire	-2	General\tInquirer\tFeb\t2010
+tired	-2	General\tInquirer\tFeb\t2010
+tiresome	-2	General\tInquirer\tFeb\t2010
+togetherness	3	Hannes\tGI\tadd
+toil	-2	General\tInquirer\tFeb\t2010
+toleran	2	
+tommyrot	-2	Feb-11
+topple	-2	General\tInquirer\tFeb\t2010
+torment	-2	General\tInquirer\tFeb\t2010
+torrent	-1	General\tInquirer\tFeb\t2010
+tortur	-4	
+torturous	-2	kev\tadd
+tosser	-2	Feb-11
+tosspot	-2	Feb-11
+touchy	-2	General\tInquirer\tFeb\t2010
+tough	-2	
+toughness	1	kev\tadd
+traged	-3	
+tragic	-3	General\tInquirer\tFeb\t2010
+tragica\t	-2	mod
+tragicomed	1	kev\tmod
+traitor	-3	Feb-11
+tramp	-2	General\tInquirer\tFeb\t2010
+trample	-2	General\tInquirer\tFeb\t2010
+tranquil	2	
+transgress	-2	General\tInquirer\tFeb\t2010
+trap	-2	General\tInquirer\tFeb\t2010
+trash	-2	Feb-11
+trauma	-4	
+treacher	-3	General\tInquirer\tFeb\t2010
+treason	-3	Feb-11
+treasur	2	
+treasurer	1	kev\tmod
+treat	2	
+trembl	-3	
+trespass	-2	General\tInquirer\tFeb\t2010
+trick	-2	
+trite	-3	kev\tmod
+triumph	3	
+trivi	-2	
+trivium	1	kev\tadd
+troubl	-2	auto\tcheck\t4\taug\t2009
+troubleshoot	1	kev\tmod
+truant	-2	General\tInquirer\tFeb\t2010
+trudg	-2	General\tInquirer\tFeb\t2010
+true\t	2	
+truehearted	4	kev\tadd
+truelove	5	kev\tmod
+trueness	2	
+truer	2	
+truest	2	
+truly	2	
+trust	2	
+trustee	1	kev\tadd
+truth	2	
+turbulent	-2	General\tInquirer\tFeb\t2010
+turmoil	-3	
+twat	-2	Feb-11
+twit	-2	Feb-11
+twitch	-1	General\tInquirer\tFeb\t2010
+twunt	-2	Feb-11
+tyranny	-3	General\tInquirer\tFeb\t2010
+tyranous	-3	General\tInquirer\tFeb\t2010
+tyrant	-3	General\tInquirer\tFeb\t2010
+ugh	-3	
+ugl	-3	
+ultimatum	-2	General\tInquirer\tFeb\t2010
+unaccustomed	-2	General\tInquirer\tFeb\t2010
+unarm	1	General\tInquirer\tFeb\t2010
+unattractive	-3	kev\tmod
+unauthentic	-2	General\tInquirer\tFeb\t2010
+unavoidable	-2	General\tInquirer\tFeb\t2010
+unbearabl	-4	General\tInquirer\tFeb\t2010
+unbelievabl	-2	General\tInquirer\tFeb\t2010
+uncertain	-1	
+uncivil	-2	General\tInquirer\tFeb\t2010
+unclean	-2	General\tInquirer\tFeb\t2010
+unclear	-2	General\tInquirer\tFeb\t2010
+uncomfortabl	-3	
+uncontrol	-2	
+uncouth	-2	General\tInquirer\tFeb\t2010
+undependab	-2	General\tInquirer\tFeb\t2010
+undermine	-2	General\tInquirer\tFeb\t2010
+underworld	-2	General\tInquirer\tFeb\t2010
+undesirabl	-2	General\tInquirer\tFeb\t2010\tkev\tmod
+undid	-1	General\tInquirer\tFeb\t2010
+undignified	-2	General\tInquirer\tFeb\t2010
+undo	-2	General\tInquirer\tFeb\t2010
+undone	-2	General\tInquirer\tFeb\t2010
+undue	-2	General\tInquirer\tFeb\t2010
+uneas	-2	
+uneasiness	-2	General\tInquirer\tFeb\t2010
+uneasy	-2	General\tInquirer\tFeb\t2010
+uneconomical	-2	General\tInquirer\tFeb\t2010
+unemployed	-2	General\tInquirer\tFeb\t2010
+unequal	-2	General\tInquirer\tFeb\t2010
+uneven	-2	General\tInquirer\tFeb\t2010
+unexpectedly	-2	General\tInquirer\tFeb\t2010
+unfair	-2	Feb-11
+unfaithful	-2	General\tInquirer\tFeb\t2010
+unfamiliar	-2	General\tInquirer\tFeb\t2010
+unfavorable	-2	General\tInquirer\tFeb\t2010
+unfeeling	-2	General\tInquirer\tFeb\t2010
+unfit	-2	General\tInquirer\tFeb\t2010
+unforeseen	-2	General\tInquirer\tFeb\t2010
+unfortunate	-2	
+unfriendly	-3	
+ungrateful	-3	
+unguarded	-2	General\tInquirer\tFeb\t2010
+unhapp	-3	
+unhealth	-2	General\tInquirer\tFeb\t2010
+unimportant	-2	
+unimpress	-2	
+uninformed	-2	General\tInquirer\tFeb\t2010
+unjust	-2	General\tInquirer\tFeb\t2010
+unjustifi	-3	General\tInquirer\tFeb\t2010
+unkind	-3	kev\tmod
+unlawful	-2	General\tInquirer\tFeb\t2010
+unlov	-3	
+unlucky	-2	General\tInquirer\tFeb\t2010
+unmoved	-2	General\tInquirer\tFeb\t2010
+unnatural	-2	General\tInquirer\tFeb\t2010
+unnecessar	-2	General\tInquirer\tFeb\t2010
+unnerve	-2	General\tInquirer\tFeb\t2010
+unnoticed	-2	General\tInquirer\tFeb\t2010
+unobserved	-2	General\tInquirer\tFeb\t2010
+unpleasant	-3	General\tInquirer\tFeb\t2010
+unpopular	-2	General\tInquirer\tFeb\t2010\tkev\tmod
+unprofitable	-2	General\tInquirer\tFeb\t2010
+unprotected	-3	kev\tmod
+unqualified	-2	General\tInquirer\tFeb\t2010
+unreasonabl	-3	Feb-11
+unreliab	-2	General\tInquirer\tFeb\t2010\tkev\tmod
+unrest	-2	General\tInquirer\tFeb\t2010
+unruly	-2	General\tInquirer\tFeb\t2010
+unsafe	-2	General\tInquirer\tFeb\t2010
+unsatisfactory	-2	General\tInquirer\tFeb\t2010
+unsavo	-3	
+unscrupulous	-2	General\tInquirer\tFeb\t2010
+unseen	-1	General\tInquirer\tFeb\t2010
+unselfish	3	kev\tmod
+unsettling	-2	General\tInquirer\tFeb\t2010
+unsound	-2	General\tInquirer\tFeb\t2010
+unspeakable	-2	General\tInquirer\tFeb\t2010
+unstable	-2	General\tInquirer\tFeb\t2010
+unsteadiness	-2	General\tInquirer\tFeb\t2010
+unsteady	-2	General\tInquirer\tFeb\t2010
+unsuccessful	-3	
+unsure	-1	
+untimely	-2	General\tInquirer\tFeb\t2010
+untrained	-2	General\tInquirer\tFeb\t2010
+untrue	-2	General\tInquirer\tFeb\t2010
+untrustworthy	-2	General\tInquirer\tFeb\t2010
+untruth	-2	General\tInquirer\tFeb\t2010
+unwelcom	-3	
+unwilling	-2	General\tInquirer\tFeb\t2010
+unwise	-2	General\tInquirer\tFeb\t2010
+unworthy	-2	General\tInquirer\tFeb\t2010
+upbeat	2	Hannes\tGI\tadd
+upchuck	-2	Feb-11
+upheaval	-2	General\tInquirer\tFeb\t2010
+uprising	-2	General\tInquirer\tFeb\t2010
+uproar	-2	General\tInquirer\tFeb\t2010
+uproot	-2	General\tInquirer\tFeb\t2010
+upset	-3	
+uptight	-3	
+useful	2	
+useless\t	-3	
+usurp	-2	General\tInquirer\tFeb\t2010
+vagabond	-2	General\tInquirer\tFeb\t2010
+vagrant	-2	General\tInquirer\tFeb\t2010
+vague	-2	General\tInquirer\tFeb\t2010
+vain	-3	
+valuabl	2	
+value	2	
+valued	2	
+values	2	
+valuing	2	
+vanish	-2	General\tInquirer\tFeb\t2010
+vanity	-2	
+vehement	-3	General\tInquirer\tFeb\t2010
+venerable	2	kev\tmod
+venerate	2	Hannes\tGI\tadd
+vengeance	-3	General\tInquirer\tFeb\t2010
+venom	-4	General\tInquirer\tFeb\t2010
+venomous	-4	General\tInquirer\tFeb\t2010
+veto	-2	General\tInquirer\tFeb\t2010
+vex	-3	General\tInquirer\tFeb\t2010
+vice	-2	General\tInquirer\tFeb\t2010
+vicious	-4	
+victim	-3	
+vie	-2	General\tInquirer\tFeb\t2010
+vigor	1	
+vigour	1	
+vile	-4	kev\tmod
+villain	-3	
+violat	-4	
+violate	-3	General\tInquirer\tFeb\t2010
+violation	-2	General\tInquirer\tFeb\t2010
+violence	-4	General\tInquirer\tFeb\t2010
+violent	-3	
+viper	-2	General\tInquirer\tFeb\t2010
+virtue	3	
+virtuo	3	
+vital	1	
+vitalis	3	kev\tmod
+vitaliz	3	kev\tmod
+void	-2	General\tInquirer\tFeb\t2010
+volatil	-2	General\tInquirer\tFeb\t2010
+vom	-3	Feb-11
+vomit	-3	Feb-11
+vulgar	-2	General\tInquirer\tFeb\t2010
+vulnerab	-3	
+vulture	-3	
+wack	-2	Feb-11
+wail	-2	General\tInquirer\tFeb\t2010
+wallow	-2	General\tInquirer\tFeb\t2010
+wane	-2	General\tInquirer\tFeb\t2010
+wanker	-2	Feb-11
+wanton	-1	General\tInquirer\tFeb\t2010
+war	-3	
+warfare	-3	
+warlike	-2	General\tInquirer\tFeb\t2010
+warm	1	
+warmheart	4	kev\tadd
+warmly	2	kev\tadd
+warp	-2	General\tInquirer\tFeb\t2010
+warred	-3	
+warring	-3	
+wars	-3	
+wary	-2	General\tInquirer\tFeb\t2010
+wassock	-2	Feb-11
+waste	-2	Feb-11
+wayward	-2	General\tInquirer\tFeb\t2010
+wazzock	-2	Feb-11
+weak	-2	
+wealth	1	
+weapon	-2	kev\tmod
+weariness	-2	General\tInquirer\tFeb\t2010
+wearisome	-2	General\tInquirer\tFeb\t2010
+wee	-2	General\tInquirer\tFeb\t2010
+weed	-2	General\tInquirer\tFeb\t2010
+weep	-3	
+weird	-2	
+welcom	2	
+well	1	interjection
+well	2	
+wellies	1	kev\tmod
+welling	1	kev\tmod
+wells	1	kev\tmod
+wench	-2	General\tInquirer\tFeb\t2010
+wept	-4	
+whack	-2	General\tInquirer\tFeb\t2010
+whimper	-2	General\tInquirer\tFeb\t2010
+whine	-3	
+whining	-3	
+whip	-2	General\tInquirer\tFeb\t2010
+whore	-3	
+wicked	3	27\tJuly\t2009\t(was\twicked\tis\t-3)
+wickedn	-3	
+wilt	-2	General\tInquirer\tFeb\t2010
+wily	-2	General\tInquirer\tFeb\t2010
+wimp	-3	
+wimple	1	kev\tmod
+win	1	
+wince	-2	General\tInquirer\tFeb\t2010\tkev\tmod
+winner	2	kev\tmod
+winning	2	kev\tmod
+wins	1	
+wisdom	1	
+wise	1	
+wiseacre	-2	kev\tadd
+witch	-1	
+witchcraft	-2	General\tInquirer\tFeb\t2010
+withheld	-2	General\tInquirer\tFeb\t2010
+withhold	-2	General\tInquirer\tFeb\t2010
+woe	-3	kev\tmod
+won	1	
+wonderf	3	
+worn	-2	General\tInquirer\tFeb\t2010
+worr	-4	
+worse	-3	
+worship	2	
+worshipper	1	kev\tmod
+worst	-3	
+worthless\t	-3	
+worthwhile	2	
+wound	-2	General\tInquirer\tFeb\t2010
+wow	3	
+wrath	-2	General\tInquirer\tFeb\t2010
+wreck	-2	General\tInquirer\tFeb\t2010
+wrestle	-2	General\tInquirer\tFeb\t2010
+wretch	-3	General\tInquirer\tFeb\t2010
+wrinkle	-2	General\tInquirer\tFeb\t2010
+writhe	-2	General\tInquirer\tFeb\t2010
+wrong	-2	
+wrong	-3	kev\tmod
+wrought	-1	General\tInquirer\tFeb\t2010
+wtf	-3	what\tthe\tfuck?
+x	2	27-Jul-09
+xox	2	
+xx	2	
+xx	2	
+xxi	1	kev\tmod
+xxv	1	kev\tmod
+xxy	1	kev\tmod
+yawn	-2	General\tInquirer\tFeb\t2010
+yay	2	auto\tcheck\t4\taug\t2009
+yays	3	
+yearn	-2	
+yelp	-2	General\tInquirer\tFeb\t2010
+zest	2	kev\tadd
+zestril	1	kev\tadd
