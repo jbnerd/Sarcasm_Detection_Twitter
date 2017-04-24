@@ -1,15 +1,18 @@
 import sys 
 from string import ascii_lowercase
 import nltk 
-from nltk import word_tokenize
 from nltk import bigrams
 import string
 import re
+import os
 import csv
 from nltk.stem.snowball import SnowballStemmer
+from ExtraPreProc import remove_stop_words
 # reload(sys)  
 # sys.setdefaultencoding('utf8')
 
+bidict={}
+tridict={}
 
 def getSentiStrength(w):
 	stemmer = SnowballStemmer("english",ignore_stopwords=True)
@@ -51,8 +54,7 @@ def contrastingFeatures(words):
 	sentiscores=[]
 	bigrams = []
 	trigrams = []
-	bidict={}
-	tridict={}
+	
 	poscount=0
 	possum=0
 	negcount=0
@@ -77,61 +79,80 @@ def contrastingFeatures(words):
 		trigrams.append(new_words[c]+new_words[c+1]+new_words[c+2])
 		c=c+1
 
-	with open('bigramscores.csv','r') as file2:
-		for line in file2:
-			temp = line.split()
-			bidict[temp[0]]=float(temp[1])
-	file2.close()
-
-	with open('trigramscores.csv','r') as file2:
-		for line in file2:
-			temp = line.split()
-			tridict[temp[0]]=float(temp[1])
-	file2.close()
-
 	for bi in bigrams:
 		if bi in bidict:
 			if bidict[bi]>0:
-				possum+= bidict[bi]
+				possum+= float(bidict[bi])
 				poscount=poscount + 1
-				print "here1"
+				# print "here1"
 			else:
-				negsum+=bidict[bi]
+				negsum+= float(bidict[bi])
 				negcount=negcount+1
 
 	for tri in trigrams:
 		if tri in tridict:
 			if tridict[tri]>0:
-				possum+= tridict[tri]
+				possum+= float(tridict[tri])
 				poscount=poscount+1
-				# print(poscount)
-				# print(possum)
+				# print "here2"
+		
 			else:
-				negsum+=tridict[tri]
+				negsum+=float(tridict[tri])
 				negcount=negcount+1
 	
 	delta_affect = (max(affectscores) - min(affectscores))
 	delta_sentiment= (max(sentiscores)-min(sentiscores))
-	print(poscount)
-	print(possum)
-	print(negcount)
-	print(negsum)
-
-	print((trigrams))
-	# print(len(bidict))
 
 	output = [delta_affect, delta_sentiment, poscount, possum, negcount, negsum]
 
 	output_file = open("feature1.csv", "w");
 	writer = csv.writer(output_file)
 	writer.writerow(output)
+	print output
 
 	return output
 
 
+def writeFile(folder):
+	# checking presence of repeated characters
+	
+	for f in sorted(os.listdir(folder)):
+		inputFile = open(os.path.join(folder,f),"r")
+		reader = list(csv.reader(inputFile))
+		tweet = reader[1][2]
+		tweet = " ".join(remove_stop_words(tweet))
+		print tweet
+		contrastingFeatures(tweet)
 
-# tweet = "i love getting spam mails"
+def main():
+	with open('bigramscores.csv','r') as file2:
+		for line in file2:
+			key = line.split(",")[0]
+			val = line.split(",")[1]
+			bidict[key]=float(val)
+	file2.close()
 
-# contrastingFeatures(tweet)
-# bigram_score(tweet)
+	with open('trigramscores.csv','r') as file2:
+		for line in file2:
+			key = line.split(",")[0]
+			val = line.split(",")[1]
+			bidict[key]=float(val)
+	file2.close()
+
+	# tweet = "i love getting spam mails"
+	# tweet = " ".join(remove_stop_words(tweet))
+	# print tweet
+	# contrastingFeatures(tweet)
+	pwd = os.getcwd()
+	normal = pwd + "/normal_with_past_PP"
+	sarcastic = pwd + "/sarcastic_with_past"
+	writeFile(normal)
+	writeFile(sarcastic)
+
+
+
+if __name__ == "__main__":
+	main()
+
+
 # function to read tweets from preprocessed data and pass to contrastingFeatures()
