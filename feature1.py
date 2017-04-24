@@ -108,26 +108,30 @@ def contrastingFeatures(words):
 
 	output = [delta_affect, delta_sentiment, poscount, possum, negcount, negsum]
 
-	output_file = open("feature1.csv", "w");
-	writer = csv.writer(output_file)
-	writer.writerow(output)
-	print output
-
 	return output
 
 
-def writeFile(folder):
+def writeFile(folder, file_name):
 	# checking presence of repeated characters
-	
+	output_file = open(file_name, "w")
+	writer = csv.writer(output_file)
+
 	for f in sorted(os.listdir(folder)):
 		inputFile = open(os.path.join(folder,f),"r")
 		reader = list(csv.reader(inputFile))
 		tweet = reader[1][2]
 		tweet = " ".join(remove_stop_words(tweet))
 		print tweet
-		contrastingFeatures(tweet)
+		output = contrastingFeatures(tweet)
+		print output
+
+		writer.writerow(output)
+		print output
+
+	return
 
 def main():
+	
 	with open('bigramscores.csv','r') as file2:
 		for line in file2:
 			key = line.split(",")[0]
@@ -149,8 +153,8 @@ def main():
 	pwd = os.getcwd()
 	normal = pwd + "/normal_with_past_PP"
 	sarcastic = pwd + "/sarcastic_with_past"
-	writeFile(normal)
-	writeFile(sarcastic)
+	writeFile(normal, "feature1_norm.csv")
+	writeFile(sarcastic, "feature1_sarcastic.csv")
 
 
 
