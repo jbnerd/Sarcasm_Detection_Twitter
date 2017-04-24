@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import os,csv,re
 from nltk.stem import WordNetLemmatizer
 from nltk.stem.snowball import SnowballStemmer
@@ -23,12 +24,18 @@ def remove_stop_words(document):
             term = remove_punctuations(term)
             if term not in stop_word_list:
                 cleaned_doc.append(term)
-        return cleaned_doc
+        return " ".join(cleaned_doc)
 
 def stem(tweet):
     tweet = tweet.split()
-    wnl = WordNetLemmatizer()
-    tweet = [wnl.lemmatize(w) for w in tweet]
+    # wnl = WordNetLemmatizer()
+    # tweet = [wnl.lemmatize(w) for w in tweet]
     stemmer = SnowballStemmer("english",ignore_stopwords=True)
-    tweet = [stemmer.stem(w) for w in tweet]
-    return " ".join(tweet)
+    tweetr=[]
+    for w in tweet:
+        try:
+          tweetr.append(stemmer.stem(w))  
+        except:
+          tweetr.append(w)    
+    # tweet = [stemmer.stem(w) for w in tweet]
+    return " ".join(tweetr)
