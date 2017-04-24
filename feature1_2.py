@@ -2,6 +2,8 @@
 
 from PreProc import preprocess
 import csv
+from from ExtraPreProc import remove_punctuations, remove_stop_words, stem
+
 # path_normal = os.path.abspath("/home/jayati/Documents/sarcasmdet/Python Code") + "/normal_with_past"
 # fileListNormal  = os.listdir(path_normal)
 def getSentiStrength(w):
@@ -45,7 +47,10 @@ def get_feature_1_2(filename):
 			# print row['tweet']
 			#preprocessing of tweet to get a list of words (stemming required)
 			words = preprocess(row['tweet'])
-
+			words= remove_punctuations(words)
+			words=remove_stop_words(words)
+			words=stem(words)
+			words=words.split(" ")
 			# print words
 			senti_score=0
 			prev_score=-10
