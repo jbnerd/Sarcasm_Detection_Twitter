@@ -80,6 +80,7 @@ def main():
     csvfile = open("feature2.csv","w")
     writeFile(norm,csvfile)
     writeFile(sarc,csvfile)
+    csvfile.close()
 
 
 if __name__=="__main__":
