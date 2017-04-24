@@ -15,8 +15,11 @@ bidict={}
 tridict={}
 
 def getSentiStrength(w):
-	stemmer = SnowballStemmer("english",ignore_stopwords=True)
-	w = stemmer.stem(w)
+	try:
+		stemmer = SnowballStemmer("english",ignore_stopwords=True)
+		w = stemmer.stem(w)
+	except:
+		w = w
 	sentidict = {}
 	with open('senti.txt','r') as file2:
 		for line in file2:
