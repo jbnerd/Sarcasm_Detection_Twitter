@@ -49,7 +49,6 @@ def KL(t1,t2):
     return sum([t1[i] * math.log(t1[i]/t2[i]) for i in range(len(t1)) if t1[i] != 0 if t2[i] != 0])
 
 def writeFile(folder,csvfile):
-   
     f2 = csv.writer(csvfile,delimiter=",")
     for f in sorted(os.listdir(folder)):
         inputFile = open(os.path.join(folder,f),"r")
@@ -80,6 +79,7 @@ def main():
     csvfile = open("feature2.csv","w")
     writeFile(norm,csvfile)
     writeFile(sarc,csvfile)
+    csvfile.close()
 
 
 if __name__=="__main__":
