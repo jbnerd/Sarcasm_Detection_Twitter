@@ -2,7 +2,8 @@
 
 from PreProc import preprocess
 import csv
-from from ExtraPreProc import remove_punctuations, remove_stop_words, stem
+from ExtraPreProc import remove_punctuations, remove_stop_words, stem
+import os
 
 # path_normal = os.path.abspath("/home/jayati/Documents/sarcasmdet/Python Code") + "/normal_with_past"
 # fileListNormal  = os.listdir(path_normal)
@@ -47,9 +48,13 @@ def get_feature_1_2(filename):
 			# print row['tweet']
 			#preprocessing of tweet to get a list of words (stemming required)
 			words = preprocess(row['tweet'])
+			print (type(words))
 			words= remove_punctuations(words)
+			print (type(words))
 			words=remove_stop_words(words)
+			print (type(words))
 			words=stem(words)
+			print (type(words))
 			words=words.split(" ")
 			# print words
 			senti_score=0
@@ -121,6 +126,27 @@ def get_feature_1_2(filename):
 		f[9]= float(neg_neu)/total
 		f[0]= f[i]
 		print (f)
-		return f
+	tweet_file.close()	
+	return f
 
-get_feature_1_2("/home/ameesha/Documents/data mining/feature1.2/user0.csv")
+# get_feature_1_2("/home/ameesha/Documents/data mining/feature1.2/user0.csv")
+
+def writeFile(folder, csvfile):
+	f5 = csv.writer(csvfile,delimiter=",")
+	for f in sorted(os.listdir(folder)):
+		inputFile = os.path.join(folder,f)
+		# print (inputFile)
+		# reader = list(csv.reader(inputFile))
+		# tweet = reader[1][2]
+		# tweet =tweet.strip()
+		featurelist=get_feature_1_2(inputFile)
+		f5.writerow(featurelist)
+		# inputFile.close()		
+
+pwd = os.getcwd()
+norm = pwd + "/normal_with_past"
+sarc = pwd + "/sarcastic_with_past"
+csvfile = open("feature1_2_past.csv","w")
+writeFile(norm,csvfile)
+writeFile(sarc,csvfile)
+csvfile.close()

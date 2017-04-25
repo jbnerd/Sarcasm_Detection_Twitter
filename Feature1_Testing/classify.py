@@ -9,7 +9,7 @@ import random
 x = []
 y = []
 
-with open('output.csv') as csvfile:
+with open('feature1_final.csv') as csvfile:
 	reader = csv.reader(csvfile, delimiter = ' ')
 	for row in reader:
 		x.append(row[0: (len(row))])
@@ -26,7 +26,7 @@ Y = []
 for i in y:
 	Y.append(i)
 
-for j in range(72, 78):
+'''for j in range(72, 78):
 	temp0 = []
 	for i in X:
 		temp0.append(i[j])
@@ -41,12 +41,12 @@ for j in range(72, 78):
 
 	for i in X:
 		i[j] = tempdict0[i[j]]
-
+'''
 #print(str(X[0]) + "\n")
 #print(str(X[0])  + "     " + str(Y[4000]) + "\n")
 
-#X = np.asarray(X)
-#Y = np.asarray(Y)
+X = np.asarray(X)
+Y = np.asarray(Y)
 
 for i in X:
 	for j in i:
@@ -56,7 +56,7 @@ for i in Y:
 	for j in i:
 		j = float(j)
 
-x_train, x_test, y_train, y_test = train_test_split(X, Y, test_size = 0.5, random_state = 42)
+x_train, x_test, y_train, y_test = train_test_split(X, Y, test_size = 0.1, random_state = 42)
 
 #SVM classifier 
 clf = svm.SVC()
@@ -68,7 +68,7 @@ print("\n")
 
 #Decision Tree Classifier
 
-x_train, x_test, y_train, y_test = train_test_split(X, Y, test_size = 0.5, random_state = 42)
+x_train, x_test, y_train, y_test = train_test_split(X, Y, test_size = 0.1, random_state = 42)
 
 clftree = tree.DecisionTreeClassifier()
 clftree.fit(x_train, y_train)
@@ -89,7 +89,7 @@ print('random sampling')
 
 #SVM polynomial classifier
 
-x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.5, random_state = 42)
+x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.1, random_state = 42)
 
 clf = svm.SVC(kernel = 'poly')
 clf.fit(x_train, y_train)
